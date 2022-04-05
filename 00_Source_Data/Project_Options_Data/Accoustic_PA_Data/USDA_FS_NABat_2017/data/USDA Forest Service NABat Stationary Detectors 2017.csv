@@ -1,0 +1,549 @@
+first_name,last_name,y_coord,x_coord,det_mfg,det_model,mic_type,refl_type,mic_ht,mic_ht_units,call_id_1,call_id_2,site_id,det_id,night,anpa,coto,epfu,euma,eupe,labl,labo,laci,lano,myca,myci,myev,mylu,myse,myso,myth,myvo,myyu,nyhu,pahe,pesu,tabr
+Ted,Weller,38.5962,-120.557,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2483,2017-06-19 00:00:00,0,1,1,0,0,0,,1,1,1,1,0,0,,,1,0,1,,0,,1
+Ted,Weller,38.5962,-120.557,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2483,2017-06-20 00:00:00,0,1,1,0,0,0,,0,1,1,1,0,0,,,1,1,1,,0,,1
+Ted,Weller,38.5962,-120.557,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2483,2017-06-21 00:00:00,0,1,0,0,0,0,,0,1,1,1,1,0,,,1,1,1,,0,,1
+Ted,Weller,38.5962,-120.557,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2483,2017-06-22 00:00:00,0,0,0,0,0,0,,1,0,1,1,0,1,,,1,1,0,,0,,1
+Ted,Weller,38.6195,-120.572,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2576,2017-06-19 00:00:00,0,0,1,0,0,0,,1,0,1,0,1,0,,,1,1,1,,0,,0
+Ted,Weller,38.6195,-120.572,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2576,2017-06-20 00:00:00,0,0,0,0,0,0,,1,0,1,0,1,0,,,1,1,0,,0,,0
+Ted,Weller,38.6195,-120.572,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2576,2017-06-21 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,0,,0
+Ted,Weller,38.6195,-120.572,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 NE 2576,2017-06-22 00:00:00,0,0,0,0,0,1,,0,0,1,0,1,0,,,1,1,0,,0,,0
+Ted,Weller,38.5622,-120.521,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 SE 2531,2017-06-19 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,0,,,0,1,1,,0,,0
+Ted,Weller,38.5622,-120.521,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 SE 2531,2017-06-20 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,0,,,0,1,0,,0,,1
+Ted,Weller,38.5622,-120.521,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 SE 2531,2017-06-21 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,0,,,1,1,0,,0,,0
+Ted,Weller,38.5622,-120.521,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,2666 SE 2531,2017-06-22 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,38.8356,-120.263,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 NE 2483,2017-06-13 00:00:00,0,0,0,0,0,0,,0,1,1,0,1,0,,,0,0,0,,0,,0
+Ted,Weller,38.8356,-120.263,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 NE 2483,2017-06-14 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,1,,,0,0,0,,0,,0
+Ted,Weller,38.8356,-120.263,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 NE 2483,2017-06-15 00:00:00,0,0,1,0,0,0,,0,1,1,0,0,1,,,0,0,0,,0,,0
+Ted,Weller,38.8208,-120.339,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 NW 2531,2017-06-12 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,38.8208,-120.339,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 NW 2531,2017-06-13 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,1,,,1,0,1,,0,,0
+Ted,Weller,38.8208,-120.339,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 NW 2531,2017-06-14 00:00:00,0,0,0,0,0,0,,0,1,1,0,0,1,,,0,0,1,,0,,0
+Ted,Weller,38.8208,-120.339,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 NW 2531,2017-06-15 00:00:00,0,0,0,0,0,0,,1,1,1,0,0,1,,,0,1,1,,0,,0
+Ted,Weller,38.8106,-120.243,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SE 2576,2017-06-12 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,38.8106,-120.243,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SE 2576,2017-06-13 00:00:00,0,0,0,0,0,0,,1,1,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,38.8106,-120.243,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SE 2576,2017-06-14 00:00:00,0,0,0,0,0,0,,1,0,1,0,1,0,,,0,1,0,,0,,0
+Ted,Weller,38.8106,-120.243,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SE 2576,2017-06-15 00:00:00,0,0,0,0,0,0,,0,1,1,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,38.7867,-120.348,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SW 2538,2017-06-12 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,38.7867,-120.348,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SW 2538,2017-06-13 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,1,0,0,,0,,1
+Ted,Weller,38.7867,-120.348,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SW 2538,2017-06-14 00:00:00,0,0,0,0,0,0,,0,1,1,0,0,1,,,1,0,0,,0,,0
+Ted,Weller,38.7867,-120.348,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,El Dorado National Forest,810 SW 2538,2017-06-15 00:00:00,0,0,1,0,0,0,,0,0,1,0,1,0,,,0,0,0,,0,,0
+Ted,Weller,40.9414,-122.347,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NW 2516,2017-06-26 00:00:00,1,0,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,40.9414,-122.347,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NW 2516,2017-06-27 00:00:00,0,0,0,0,0,0,,0,1,1,0,0,0,,,0,0,1,,0,,1
+Ted,Weller,40.9414,-122.347,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NW 2516,2017-06-28 00:00:00,0,0,0,0,0,0,,0,1,1,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,40.9414,-122.347,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NW 2516,2017-06-29 00:00:00,1,0,1,0,0,0,,0,1,1,0,0,1,,,0,0,0,,0,,0
+Ted,Weller,41.1786,-122.822,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,1594 NW 2581,2017-06-23 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,0,0,1,,0,,0
+Ted,Weller,41.169,-122.801,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,1594 SW 2581,2017-06-24 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,0,1,1,,0,,0
+Ted,Weller,41.1937,-122.712,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,1594 NE 2581,2017-07-17 00:00:00,0,0,0,0,0,0,,1,1,1,0,0,1,,,0,0,1,,0,,1
+Ted,Weller,40.8959,-122.284,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SW 2715,2017-06-26 00:00:00,0,0,0,0,0,0,,1,1,1,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,40.8959,-122.284,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SW 2715,2017-06-27 00:00:00,0,0,0,0,0,0,,1,0,1,0,1,0,,,0,0,0,,0,,1
+Ted,Weller,40.8959,-122.284,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SW 2715,2017-06-28 00:00:00,0,0,0,0,0,0,,0,1,1,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,40.8959,-122.284,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SW 2715,2017-06-29 00:00:00,0,0,0,0,0,0,,0,1,1,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,40.897,-122.246,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SE 2738,2017-06-26 00:00:00,0,0,1,0,0,0,,1,0,0,0,0,0,,,0,0,0,,1,,0
+Ted,Weller,40.897,-122.246,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SE 2738,2017-06-27 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,40.897,-122.246,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SE 2738,2017-06-28 00:00:00,0,0,1,0,0,0,,0,1,0,0,0,0,,,0,0,0,,1,,1
+Ted,Weller,40.897,-122.246,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 SE 2738,2017-06-29 00:00:00,0,0,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,40.9276,-122.247,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NE 2746,2017-06-26 00:00:00,0,1,1,0,0,0,,0,1,1,1,1,1,,,1,0,1,,1,,0
+Ted,Weller,40.9276,-122.247,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NE 2746,2017-06-27 00:00:00,1,0,0,0,0,0,,1,1,1,0,1,1,,,0,0,1,,1,,1
+Ted,Weller,40.9276,-122.247,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NE 2746,2017-06-28 00:00:00,1,0,0,0,0,0,,1,1,1,0,1,1,,,1,1,1,,1,,0
+Ted,Weller,40.9276,-122.247,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Shasta Trinity National Forest,2362 NE 2746,2017-06-29 00:00:00,1,0,0,0,0,0,,0,0,1,0,1,1,,,0,0,1,,1,,0
+Ted,Weller,37.4044,-119.416,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,Sierra National Forest,189 2727,2017-07-24 00:00:00,0,0,1,1,0,1,,1,1,1,1,0,1,,,1,0,0,,0,,1
+Ted,Weller,37.4044,-119.416,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,Sierra National Forest,189 2727,2017-07-25 00:00:00,0,0,1,1,0,1,,1,1,1,1,1,0,,,1,0,1,,1,,1
+Ted,Weller,37.4044,-119.416,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,Sierra National Forest,189 2727,2017-07-26 00:00:00,0,1,1,1,0,1,,1,1,1,1,0,0,,,1,1,0,,0,,1
+Ted,Weller,37.4044,-119.416,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,5.0,meters,Sonobat 4,Personal Experience,Sierra National Forest,189 2727,2017-07-27 00:00:00,0,0,1,0,0,1,,1,1,1,0,0,1,,,1,0,1,,0,,1
+Ted,Weller,41.3735,-123.683,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 NE 2516,2017-07-21 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,1,,,1,0,1,,0,,0
+Ted,Weller,41.3735,-123.683,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 NE 2516,2017-07-22 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,1,,,1,0,1,,0,,0
+Ted,Weller,41.3735,-123.683,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 NE 2516,2017-07-23 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,0,0,1,,0,,0
+Ted,Weller,41.3735,-123.683,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 NE 2516,2017-07-24 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,0,0,1,,0,,0
+Ted,Weller,41.3735,-123.683,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 NE 2516,2017-07-25 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,0,,,0,0,0,,0,,0
+Ted,Weller,41.3218,-123.668,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 SE 2746,2017-07-21 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,1,1,0,,0,,0
+Ted,Weller,41.3218,-123.668,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 SE 2746,2017-07-22 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,1,0,1,,0,,0
+Ted,Weller,41.3218,-123.668,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 SE 2746,2017-07-23 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,0,1,1,,0,,0
+Ted,Weller,41.3218,-123.668,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 SE 2746,2017-07-24 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,0,1,1,,0,,1
+Ted,Weller,41.3218,-123.668,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Six Rivers National Forest,1194 SE 2746,2017-07-25 00:00:00,0,0,1,0,0,1,,1,1,1,0,1,1,,,1,0,0,,0,,0
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-24 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-25 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-26 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-27 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-28 00:00:00,1,1,1,0,1,0,,1,1,1,1,1,1,,,1,1,0,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-29 00:00:00,1,0,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-30 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-31 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.7993,-121.373,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SW 2483,2017-07-31 00:00:00,1,0,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.846,-121.356,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NE 2531,2017-07-25 00:00:00,1,0,1,0,0,0,,1,1,1,1,1,1,,,0,1,0,,0,,1
+Ted,Weller,40.846,-121.356,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NE 2531,2017-07-26 00:00:00,1,0,1,0,0,1,,1,1,1,1,1,1,,,0,1,0,,0,,1
+Ted,Weller,40.846,-121.356,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NE 2531,2017-07-27 00:00:00,1,0,1,0,0,1,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.846,-121.356,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NE 2531,2017-07-28 00:00:00,1,0,1,0,0,0,,1,1,1,1,1,1,,,1,1,0,,0,,1
+Ted,Weller,40.846,-121.356,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NE 2531,2017-07-29 00:00:00,0,0,1,0,0,0,,0,1,1,1,1,1,,,0,1,0,,0,,1
+Ted,Weller,40.846,-121.356,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NE 2531,2017-07-30 00:00:00,1,0,1,0,0,0,,0,1,1,1,1,1,,,0,1,0,,0,,1
+Ted,Weller,40.846,-121.356,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NE 2531,2017-07-31 00:00:00,1,0,1,0,0,0,,1,1,1,1,1,1,,,1,1,1,,0,,1
+Ted,Weller,40.787,-121.35,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SE 2538,2017-07-25 00:00:00,1,0,1,0,0,0,,1,1,1,1,1,0,,,1,0,0,,0,,1
+Ted,Weller,40.787,-121.35,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SE 2538,2017-07-26 00:00:00,0,1,1,0,0,0,,1,1,1,1,1,1,,,1,0,0,,0,,1
+Ted,Weller,40.787,-121.35,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SE 2538,2017-07-27 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,1,,,1,0,0,,0,,1
+Ted,Weller,40.787,-121.35,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SE 2538,2017-07-28 00:00:00,0,0,0,0,0,0,,1,1,1,1,1,0,,,1,0,0,,0,,1
+Ted,Weller,40.787,-121.35,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SE 2538,2017-07-29 00:00:00,1,1,1,0,0,0,,1,1,1,1,1,0,,,1,0,0,,0,,1
+Ted,Weller,40.787,-121.35,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SE 2538,2017-07-30 00:00:00,0,0,1,0,0,0,,0,1,0,1,1,0,,,1,0,0,,0,,1
+Ted,Weller,40.787,-121.35,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 SE 2538,2017-07-31 00:00:00,0,0,1,0,0,0,,1,1,1,1,1,1,,,1,0,0,,0,,1
+Ted,Weller,40.8416,-121.434,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NW 2576,2017-07-25 00:00:00,0,0,1,0,0,0,,0,0,1,1,1,0,,,0,1,0,,1,,0
+Ted,Weller,40.8416,-121.434,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NW 2576,2017-07-26 00:00:00,0,0,1,0,0,0,,0,0,1,1,1,1,,,1,1,1,,1,,1
+Ted,Weller,40.8416,-121.434,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NW 2576,2017-07-27 00:00:00,0,0,1,0,0,0,,0,1,1,1,1,1,,,1,0,0,,1,,0
+Ted,Weller,40.8416,-121.434,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NW 2576,2017-07-28 00:00:00,0,0,1,0,0,0,,0,0,1,1,1,0,,,0,1,0,,1,,0
+Ted,Weller,40.8416,-121.434,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NW 2576,2017-07-29 00:00:00,0,0,1,0,0,0,,0,0,1,1,1,1,,,0,1,1,,1,,0
+Ted,Weller,40.8416,-121.434,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NW 2576,2017-07-30 00:00:00,0,0,1,0,0,0,,0,1,1,1,1,0,,,0,0,0,,1,,0
+Ted,Weller,40.8416,-121.434,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Lassen National Forest,314 NW 2576,2017-07-31 00:00:00,0,0,1,0,0,0,,0,0,1,1,1,1,,,0,1,0,,1,,0
+Ted,Weller,33.9961,-116.949,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.4,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2539,2017-07-10 00:00:00,0,0,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9961,-116.949,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.4,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2539,2017-07-11 00:00:00,0,0,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9961,-116.949,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.4,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2539,2017-07-12 00:00:00,0,0,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9961,-116.949,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.4,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2539,2017-07-13 00:00:00,0,0,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9649,-116.915,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.35,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2540,2017-07-09 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,33.9649,-116.915,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.35,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2540,2017-07-10 00:00:00,0,0,1,0,0,0,,0,1,0,0,0,0,,,0,0,0,,1,,1
+Ted,Weller,33.9649,-116.915,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.35,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2540,2017-07-11 00:00:00,0,0,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9649,-116.915,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.35,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2540,2017-07-12 00:00:00,0,0,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9649,-116.915,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.35,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2540,2017-07-13 00:00:00,0,0,1,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9713,-116.914,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.28,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2547,2017-07-10 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,1
+Ted,Weller,33.9713,-116.914,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.28,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2547,2017-07-11 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,33.9713,-116.914,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.28,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2547,2017-07-12 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,33.9713,-116.914,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.28,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2547,2017-07-13 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,33.9902,-116.948,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.38,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2571,2017-07-10 00:00:00,0,0,1,0,0,0,,0,1,1,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,33.9902,-116.948,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.38,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2571,2017-07-11 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,33.9902,-116.948,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.38,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2571,2017-07-12 00:00:00,0,0,1,0,0,0,,0,1,1,1,0,0,,,0,0,0,,0,,0
+Ted,Weller,33.9902,-116.948,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.38,meters,Sonobat 4,Personal Experience,San Bernardino National Forest,2870 NE 2571,2017-07-13 00:00:00,0,0,1,0,0,0,,0,1,1,1,0,0,,,0,0,0,,0,,0
+Ted,Weller,41.5625,-120.538,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,634 SE 2746,2017-07-05 00:00:00,0,0,0,0,0,0,,0,0,1,1,1,1,,,0,0,1,,0,,0
+Ted,Weller,41.5625,-120.538,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,634 SE 2746,2017-07-06 00:00:00,0,0,0,0,0,0,,1,0,1,1,1,0,,,0,0,1,,0,,0
+Ted,Weller,41.5625,-120.538,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,634 SE 2746,2017-07-07 00:00:00,0,0,0,0,0,0,,1,0,1,1,1,1,,,0,0,1,,0,,0
+Ted,Weller,41.5625,-120.538,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,634 SE 2746,2017-07-08 00:00:00,0,1,0,0,0,0,,0,0,1,1,1,0,,,0,0,1,,0,,1
+Ted,Weller,41.7465,-120.908,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1146 SE 2715,2017-07-05 00:00:00,0,0,0,0,0,0,,1,1,1,1,1,1,,,0,1,0,,0,,0
+Ted,Weller,41.7465,-120.908,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1146 SE 2715,2017-07-06 00:00:00,0,0,0,0,0,0,,0,1,0,0,1,1,,,0,0,0,,0,,0
+Ted,Weller,41.7465,-120.908,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1146 SE 2715,2017-07-07 00:00:00,0,0,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,41.7465,-120.908,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1146 SE 2715,2017-07-08 00:00:00,0,0,0,0,0,0,,0,1,0,0,0,0,,,0,0,0,,0,,0
+Ted,Weller,41.62,-121.307,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1850 NW 2738,2017-07-05 00:00:00,0,0,1,0,0,0,,0,0,0,1,0,0,,,1,0,0,,0,,0
+Ted,Weller,41.62,-121.307,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1850 NW 2738,2017-07-06 00:00:00,0,0,0,0,0,0,,0,1,0,1,0,0,,,0,0,0,,0,,0
+Ted,Weller,41.62,-121.307,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1850 NW 2738,2017-07-07 00:00:00,0,0,0,0,0,0,,0,0,0,1,0,0,,,0,0,0,,0,,0
+Ted,Weller,41.62,-121.307,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Modoc National Forest,1850 NW 2738,2017-07-08 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-06 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-07 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-08 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-09 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-10 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-11 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-12 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8497,-90.6806,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 NW,2017-09-13 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-06 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-07 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-08 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-09 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-10 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-11 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-12 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8278,-90.6394,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,12003 SE,2017-09-13 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8108,-92.0677,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_NE,2017-09-27 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8108,-92.0677,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_NE,2017-09-28 00:00:00,,,0,,,,0,0,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.8108,-92.0677,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_NE,2017-09-29 00:00:00,,,0,,,,0,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.8108,-92.0677,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_NE,2017-09-30 00:00:00,,,0,,,,0,1,0,,,,0,1,0,,,,0,,0,
+Tim,Catton,47.6068,-92.0825,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_SE,2017-09-27 00:00:00,,,0,,,,1,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6068,-92.0825,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_SE,2017-09-28 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6068,-92.0825,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_SE,2017-09-29 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6068,-92.0825,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,12723_SE,2017-09-30 00:00:00,,,0,,,,1,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Anabat,Anabat II,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-09 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Anabat,Anabat II,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-10 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Anabat,Anabat II,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-11 00:00:00,,,0,,,,0,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Anabat,Anabat II,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-12 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Anabat,Anabat II,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-13 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-17 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-18 00:00:00,,,0,,,,1,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-19 00:00:00,,,0,,,,0,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-20 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-21 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5978,-91.2596,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 NW,2017-08-22 00:00:00,,,1,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Anabat,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-09 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Anabat,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-10 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Anabat,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-11 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Anabat,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-12 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Anabat,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-13 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-17 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-18 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-19 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-20 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-21 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5757,-91.1565,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,13027 SE,2017-08-22 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.638,-93.0446,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_NE,2017-09-18 00:00:00,,,0,,,,1,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.638,-93.0446,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_NE,2017-09-19 00:00:00,,,0,,,,0,0,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.638,-93.0446,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_NE,2017-09-20 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.638,-93.0446,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_NE,2017-09-21 00:00:00,,,0,,,,1,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.6177,-93.0187,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_SE,2017-09-18 00:00:00,,,0,,,,1,0,0,,,,0,1,0,,,,0,,0,
+Tim,Catton,47.6177,-93.0187,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_SE,2017-09-19 00:00:00,,,0,,,,1,0,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.6177,-93.0187,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_SE,2017-09-20 00:00:00,,,0,,,,1,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6177,-93.0187,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,13747_SE,2017-09-21 00:00:00,,,0,,,,1,0,0,,,,0,1,0,,,,0,,0,
+Tim,Catton,47.7777,-92.8902,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SE,2017-09-13 00:00:00,,,0,,,,1,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.7777,-92.8902,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SE,2017-09-14 00:00:00,,,1,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7777,-92.8902,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SE,2017-09-15 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7777,-92.8902,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SE,2017-09-16 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7777,-92.8902,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SE,2017-09-17 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7706,-92.9557,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SW,2017-09-13 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7706,-92.9557,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SW,2017-09-14 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7706,-92.9557,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SW,2017-09-15 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7706,-92.9557,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SW,2017-09-16 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7706,-92.9557,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,1459_SW,2017-09-17 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-15 00:00:00,,,0,,,,1,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-16 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-17 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-18 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-19 00:00:00,,,1,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-20 00:00:00,,,1,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-21 00:00:00,,,0,,,,1,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4168,-91.3322,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 NE,2017-08-22 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-15 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-16 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-17 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-18 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-19 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-20 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-21 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4035,-91.3728,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,1763 SW,2017-08-22 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7647,-91.2452,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 NW,2017-08-23 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7647,-91.2452,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 NW,2017-08-24 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7647,-91.2452,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 NW,2017-08-25 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7647,-91.2452,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 NW,2017-08-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7647,-91.2452,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 NW,2017-08-27 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7647,-91.2452,Wildlife Acoustics,SD1,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 NW,2017-08-28 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7326,-91.2582,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 SW,2017-08-23 00:00:00,,,0,,,,0,1,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.7326,-91.2582,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 SW,2017-08-24 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7326,-91.2582,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 SW,2017-08-25 00:00:00,,,0,,,,0,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7326,-91.2582,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 SW,2017-08-26 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7326,-91.2582,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 SW,2017-08-27 00:00:00,,,0,,,,1,1,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.7326,-91.2582,Wildlife Acoustics,SD1,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,22243 SW,2017-08-28 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.8425,-90.8175,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 NW,2017-09-06 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8425,-90.8175,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 NW,2017-09-07 00:00:00,,,0,,,,1,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8425,-90.8175,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 NW,2017-09-08 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8425,-90.8175,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 NW,2017-09-09 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.8425,-90.8175,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 NW,2017-09-10 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7985,-90.7512,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 SE,2017-09-06 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7985,-90.7512,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 SE,2017-09-07 00:00:00,,,0,,,,1,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7985,-90.7512,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 SE,2017-09-08 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7985,-90.7512,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 SE,2017-09-09 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7985,-90.7512,Wildlife Acoustics,SD2,SMM-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,24291 SE,2017-09-10 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6882,-92.7523,Wildlife Acoustics,SM3BAT,SMX-UT,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SE,2017-09-08 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6882,-92.7523,Wildlife Acoustics,SM3BAT,SMX-UT,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SE,2017-09-09 00:00:00,,,0,,,,0,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.6882,-92.7523,Wildlife Acoustics,SM3BAT,SMX-UT,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SE,2017-09-10 00:00:00,,,0,,,,1,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6882,-92.7523,Wildlife Acoustics,SM3BAT,SMX-UT,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SE,2017-09-11 00:00:00,,,1,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6882,-92.7523,Wildlife Acoustics,SM3BAT,SMX-UT,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SE,2017-09-12 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7039,-92.8488,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SW,2017-09-08 00:00:00,,,0,,,,0,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.7039,-92.8488,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SW,2017-09-09 00:00:00,,,0,,,,1,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7039,-92.8488,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SW,2017-09-10 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7039,-92.8488,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SW,2017-09-11 00:00:00,,,0,,,,0,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.7039,-92.8488,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.5,meters,Sonobat 4,Personal Experience,Superior National Forest,2483_SW,2017-09-12 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-18 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-19 00:00:00,,,0,,,,0,0,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-20 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-21 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-22 00:00:00,,,0,,,,0,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-23 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-24 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-25 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4436,-92.0419,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 NW,2017-09-27 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-18 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-19 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-20 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-21 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-22 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-23 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-24 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-25 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.4032,-92.0093,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,2787 SE,2017-09-27 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8332,-90.2982,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 NW,2017-08-30 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8332,-90.2982,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 NW,2017-08-31 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8332,-90.2982,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 NW,2017-09-01 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8332,-90.2982,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 NW,2017-09-02 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8332,-90.2982,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 NW,2017-09-03 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8332,-90.2982,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 NW,2017-09-04 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7774,-90.2653,Wildlife Acoustics,SD2,SM3-U1,None,3.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 SE,2017-08-30 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7774,-90.2653,Wildlife Acoustics,SD2,SM3-U1,None,3.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 SE,2017-08-31 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7774,-90.2653,Wildlife Acoustics,SD2,SM3-U1,None,3.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 SE,2017-09-01 00:00:00,,,0,,,,0,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7774,-90.2653,Wildlife Acoustics,SD2,SM3-U1,None,3.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 SE,2017-09-02 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7774,-90.2653,Wildlife Acoustics,SD2,SM3-U1,None,3.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 SE,2017-09-03 00:00:00,,,0,,,,0,0,0,,,,0,1,0,,,,0,,0,
+Tim,Catton,47.7774,-90.2653,Wildlife Acoustics,SD2,SM3-U1,None,3.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,3811 SE,2017-09-04 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.0887,-92.2948,Wildlife Acoustics,SM3BAT,SM3-U1,None,4.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_NW,2017-08-16 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.0887,-92.2948,Wildlife Acoustics,SM3BAT,SM3-U1,None,4.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_NW,2017-08-17 00:00:00,,,0,,,,1,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.0887,-92.2948,Wildlife Acoustics,SM3BAT,SM3-U1,None,4.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_NW,2017-08-18 00:00:00,,,1,,,,1,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.0887,-92.2948,Wildlife Acoustics,SM3BAT,SM3-U1,None,4.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_NW,2017-08-19 00:00:00,,,1,,,,1,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.0887,-92.2948,Wildlife Acoustics,SM3BAT,SM3-U1,None,4.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_NW,2017-08-20 00:00:00,,,1,,,,1,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.0887,-92.2948,Wildlife Acoustics,SM3BAT,SM3-U1,None,4.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_NW,2017-08-21 00:00:00,,,0,,,,1,0,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.0502,-92.2845,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_SW,2017-08-16 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.0502,-92.2845,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_SW,2017-08-17 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.0502,-92.2845,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_SW,2017-08-18 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.0502,-92.2845,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_SW,2017-08-19 00:00:00,,,0,,,,0,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.0502,-92.2845,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_SW,2017-08-20 00:00:00,,,1,,,,1,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.0502,-92.2845,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,4615_SW,2017-08-21 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-18 00:00:00,,,0,,,,1,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-19 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-20 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-21 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-22 00:00:00,,,0,,,,0,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-23 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-24 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-25 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3781,-92.3043,Wildlife Acoustics,SD1,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 NW,2017-09-27 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-18 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-19 00:00:00,,,0,,,,1,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-20 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-21 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-22 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-23 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-24 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-25 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.3056,-92.2515,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,5299 SE,2017-09-27 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6588,-92.5836,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_NW,2017-09-05 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6588,-92.5836,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_NW,2017-09-06 00:00:00,,,0,,,,0,0,0,,,,0,1,0,,,,0,,0,
+Tim,Catton,47.6588,-92.5836,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_NW,2017-09-07 00:00:00,,,0,,,,0,1,0,,,,0,1,0,,,,0,,0,
+Tim,Catton,47.6588,-92.5836,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_NW,2017-09-08 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6588,-92.5836,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_NW,2017-09-09 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6588,-92.5836,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_NW,2017-09-10 00:00:00,,,0,,,,1,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.5786,-92.5123,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_SE,2017-09-05 00:00:00,,,0,,,,0,0,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.5786,-92.5123,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_SE,2017-09-06 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5786,-92.5123,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_SE,2017-09-07 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.5786,-92.5123,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_SE,2017-09-08 00:00:00,,,0,,,,0,0,0,,,,0,1,0,,,,0,,0,
+Tim,Catton,47.5786,-92.5123,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_SE,2017-09-09 00:00:00,,,0,,,,0,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.5786,-92.5123,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Superior National Forest,5555_SE,2017-09-10 00:00:00,,,0,,,,0,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-08-24 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-08-25 00:00:00,,,1,,,,1,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-08-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-08-27 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-08-28 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-08-29 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-09-14 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-09-15 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-09-16 00:00:00,,,0,,,,1,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-09-17 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6933,-91.0224,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 NW,2017-09-18 00:00:00,,,0,,,,1,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-08-24 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-08-25 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-08-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-08-27 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-08-28 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-08-29 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-09-14 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-09-15 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-09-16 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-09-17 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.6293,-90.9084,Wildlife Acoustics,SD2,SM3-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,6883 SE,2017-09-18 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8625,-90.5446,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 NW,2017-08-31 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8625,-90.5446,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 NW,2017-09-01 00:00:00,,,0,,,,0,1,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8625,-90.5446,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 NW,2017-09-02 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8625,-90.5446,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 NW,2017-09-03 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8625,-90.5446,Wildlife Acoustics,SD1,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 NW,2017-09-04 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7866,-90.4884,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 SE,2017-08-31 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7866,-90.4884,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 SE,2017-09-01 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7866,-90.4884,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 SE,2017-09-02 00:00:00,,,1,,,,0,1,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7866,-90.4884,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 SE,2017-09-03 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7866,-90.4884,Wildlife Acoustics,SD2,SM3-U1,None,2.0,meters,Kaleidoscope,Personal Experience,Superior National Forest,7907 SE,2017-09-04 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.2181,-92.7,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.5,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_NW,2017-08-15 00:00:00,,,0,,,,1,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.2181,-92.7,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.5,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_NW,2017-08-16 00:00:00,,,0,,,,1,0,0,,,,1,1,0,,,,0,,0,
+Tim,Catton,48.2181,-92.7,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.5,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_NW,2017-08-17 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.2181,-92.7,Wildlife Acoustics,SM3BAT,SM3-U1,None,1.5,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_NW,2017-08-18 00:00:00,,,0,,,,1,1,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.2645,-92.6409,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_SW,2017-08-15 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.2645,-92.6409,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_SW,2017-08-16 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.2645,-92.6409,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_SW,2017-08-17 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,48.2645,-92.6409,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.0,meters,Sonobat 4,Personal Experience,Superior National Forest,81350_SW,2017-08-18 00:00:00,,,0,,,,1,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.8163,-92.404,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_NW,2017-08-19 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.8163,-92.404,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_NW,2017-08-20 00:00:00,,,0,,,,1,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.8163,-92.404,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_NW,2017-08-21 00:00:00,,,1,,,,0,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.8163,-92.404,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_NW,2017-08-22 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.8163,-92.404,Wildlife Acoustics,SM3BAT,SM3-U1,None,2.25,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_NW,2017-08-23 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7781,-92.442,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_SW,2017-08-19 00:00:00,,,0,,,,1,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7781,-92.442,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_SW,2017-08-20 00:00:00,,,1,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7781,-92.442,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_SW,2017-08-21 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.7781,-92.442,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_SW,2017-08-22 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.7781,-92.442,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8627_SW,2017-08-23 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_NE,2017-08-11 00:00:00,,,1,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_NE,2017-08-12 00:00:00,,,1,,,,1,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_NE,2017-08-13 00:00:00,,,1,,,,1,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_NE,2017-08-14 00:00:00,,,1,,,,0,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_NE,2017-08-15 00:00:00,,,0,,,,1,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_SE,2017-08-11 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_SE,2017-08-12 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_SE,2017-08-13 00:00:00,,,1,,,,1,1,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_SE,2017-08-14 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.836,-91.6704,Wildlife Acoustics,SM3BAT,SMM-U1,None,1.75,meters,Sonobat 4,Personal Experience,Superior National Forest,8931_SE,2017-08-15 00:00:00,,,0,,,,0,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4588,-92.3055,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 NW,2017-09-12 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4588,-92.3055,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 NW,2017-09-13 00:00:00,,,0,,,,0,0,1,,,,1,1,0,,,,0,,0,
+Tim,Catton,47.4588,-92.3055,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 NW,2017-09-14 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4588,-92.3055,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 NW,2017-09-15 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4588,-92.3055,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 NW,2017-09-16 00:00:00,,,0,,,,0,0,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.4588,-92.3055,Wildlife Acoustics,SD2,SMM-U1,None,1.5,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 NW,2017-09-17 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.414,-92.2293,Wildlife Acoustics,SD2,SMM-U1,None,1.75,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 SE,2017-09-12 00:00:00,,,0,,,,1,1,1,,,,1,0,0,,,,0,,0,
+Tim,Catton,47.414,-92.2293,Wildlife Acoustics,SD2,SMM-U1,None,1.75,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 SE,2017-09-13 00:00:00,,,1,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.414,-92.2293,Wildlife Acoustics,SD2,SMM-U1,None,1.75,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 SE,2017-09-14 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.414,-92.2293,Wildlife Acoustics,SD2,SMM-U1,None,1.75,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 SE,2017-09-15 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.414,-92.2293,Wildlife Acoustics,SD2,SMM-U1,None,1.75,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 SE,2017-09-16 00:00:00,,,0,,,,0,0,1,,,,0,0,0,,,,0,,0,
+Tim,Catton,47.414,-92.2293,Wildlife Acoustics,SD2,SMM-U1,None,1.75,meters,Kaleidoscope,Personal Experience,Superior National Forest,9651 SE,2017-09-17 00:00:00,,,0,,,,0,1,0,,,,1,0,0,,,,0,,0,
+Ashley,Egan,43.4758,-110.742,Wildlife Acoustics,SM3BAT,SM3-U1,None,4.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,Test,2017-07-12 00:00:00,0,0,1,0,0,0,,1,1,0,0,1,1,,,0,0,0,,0,,0
+Ashley,Egan,43.8497,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 NE,2017-07-17 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.8497,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 NE,2017-07-18 00:00:00,0,0,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.8497,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 NE,2017-07-19 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.8497,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,3.0,meters,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 NE,2017-07-20 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,1,,,0,0,0,,0,,0
+Ashley,Egan,43.8014,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.5,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 SE,2017-07-24 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.8014,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.5,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 SE,2017-07-25 00:00:00,0,0,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.8014,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.5,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 SE,2017-07-26 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.8014,-110.352,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.5,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,530 SE,2017-07-27 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.1925,-110.964,Wildlife Acoustics,SM3BAT,SM3-U1,None,7.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SE,2017-08-02 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.1925,-110.964,Wildlife Acoustics,SM3BAT,SM3-U1,None,7.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SE,2017-08-03 00:00:00,0,0,0,0,0,0,,1,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.1925,-110.964,Wildlife Acoustics,SM3BAT,SM3-U1,None,7.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SE,2017-08-04 00:00:00,0,0,0,0,0,0,,1,0,0,0,0,1,,,0,0,1,,0,,0
+Ashley,Egan,43.1925,-110.964,Wildlife Acoustics,SM3BAT,SM3-U1,None,7.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SE,2017-08-05 00:00:00,0,0,0,0,0,0,,1,1,0,0,1,0,,,0,0,0,,0,,0
+Ashley,Egan,43.1925,-110.964,Wildlife Acoustics,SM3BAT,SM3-U1,None,7.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SE,2017-08-06 00:00:00,0,0,0,0,0,0,,1,1,0,0,1,0,,,0,0,0,,0,,0
+Ashley,Egan,43.1925,-110.964,Wildlife Acoustics,SM3BAT,SM3-U1,None,7.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SE,2017-08-07 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Ashley,Egan,43.1644,-111.011,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SW,2017-08-09 00:00:00,0,0,0,0,0,0,,0,1,0,0,0,0,,,0,0,1,,0,,0
+Ashley,Egan,43.1644,-111.011,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SW,2017-08-10 00:00:00,0,0,1,0,0,0,,0,1,0,0,1,1,,,0,0,0,,0,,0
+Ashley,Egan,43.1644,-111.011,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SW,2017-08-11 00:00:00,0,0,1,0,0,0,,0,1,0,0,0,1,,,0,0,0,,0,,0
+Ashley,Egan,43.1644,-111.011,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SW,2017-08-12 00:00:00,0,0,0,0,0,0,,0,0,0,0,1,1,,,0,0,0,,0,,0
+Ashley,Egan,43.1644,-111.011,Wildlife Acoustics,SM3BAT,SM3-U1,None,6.0,feet,Sonobat 4,Personal Experience,Bridger-Teton National Forest,4538 SW,2017-08-13 00:00:00,0,0,0,0,0,0,,0,1,0,0,1,1,,,0,0,0,,0,,0
+Brett,Hillman,42.9458,-73.0025,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,1FR325_51269,2017-07-25 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9458,-73.0025,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,1FR325_51269,2017-07-26 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9458,-73.0025,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,1FR325_51269,2017-07-27 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9458,-73.0025,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,1FR325_51269,2017-07-28 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9458,-73.0025,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,1FR325_51269,2017-07-29 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9458,-73.0025,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,1FR325_51269,2017-07-30 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9458,-73.0025,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,1FR325_51269,2017-07-31 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9478,-73.0094,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,2FR325_51269,2017-08-01 00:00:00,,,1,,,,0,1,1,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9478,-73.0094,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,2FR325_51269,2017-08-02 00:00:00,,,1,,,,1,1,1,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9478,-73.0094,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,2FR325_51269,2017-08-04 00:00:00,,,1,,,,0,1,1,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9478,-73.0094,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,2FR325_51269,2017-08-05 00:00:00,,,1,,,,0,1,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9478,-73.0094,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,2FR325_51269,2017-08-06 00:00:00,,,0,,,,0,1,1,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9478,-73.0094,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,2FR325_51269,2017-08-07 00:00:00,,,1,,,,0,1,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-17 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-18 00:00:00,,,0,,,,0,0,0,,,,0,1,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-19 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-20 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-21 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-22 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-23 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9811,-72.9535,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,Canada_51275,2017-07-24 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9705,-72.9513,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East01_51428,2017-07-25 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9705,-72.9513,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East01_51428,2017-07-26 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9705,-72.9513,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East01_51428,2017-07-27 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East02_51428,2017-08-01 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East02_51428,2017-08-02 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East02_51428,2017-08-03 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East02_51428,2017-08-04 00:00:00,,,1,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East02_51428,2017-08-05 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East02_51428,2017-08-06 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,East02_51428,2017-08-07 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FR325B_51281,2017-07-17 00:00:00,,,1,,,,1,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FR325B_51281,2017-07-18 00:00:00,,,1,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FR325B_51281,2017-07-19 00:00:00,,,1,,,,0,0,1,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FR325B_51281,2017-07-20 00:00:00,,,1,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FR325B_51281,2017-07-21 00:00:00,,,1,,,,0,1,1,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FR325B_51281,2017-07-22 00:00:00,,,1,,,,0,0,1,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9683,-72.9526,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FR325B_51281,2017-07-23 00:00:00,,,1,,,,0,1,1,,,,0,0,0,,,,,,0,
+Brett,Hillman,42.9972,-72.9751,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT339A_51269,2017-07-17 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9972,-72.9751,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT339A_51269,2017-07-18 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9972,-72.9751,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT339A_51269,2017-07-19 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9972,-72.9751,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT339A_51269,2017-07-20 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9972,-72.9751,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT339A_51269,2017-07-21 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9972,-72.9751,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT339A_51269,2017-07-22 00:00:00,,,1,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,42.9972,-72.9751,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT339A_51269,2017-07-23 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,43.0156,-72.9857,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT379_51428,2017-07-10 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,43.0156,-72.9857,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT379_51428,2017-07-11 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,43.0156,-72.9857,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT379_51428,2017-07-12 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,43.0156,-72.9857,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT379_51428,2017-07-13 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,43.0156,-72.9857,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT379_51428,2017-07-14 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,43.0156,-72.9857,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT379_51428,2017-07-15 00:00:00,,,0,,,,0,0,0,,,,1,0,0,,,,,,0,
+Brett,Hillman,43.0156,-72.9857,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT379_51428,2017-07-16 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Brett,Hillman,43.0488,-72.9944,Pettersson,D500X,Regular,none,3.0,meters,Sonobat 4,Personal Experience,Green Mountain National Forest,FT769A_51275,2017-07-15 00:00:00,,,0,,,,0,0,0,,,,0,0,0,,,,,,0,
+Monte,Kuk,46.404,-121.442,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,White Pass,2017-08-10 00:00:00,0,0,1,0,0,0,,1,0,1,0,0,1,,,0,1,0,,0,,0
+Monte,Kuk,47.659,-120.613,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Walker Canyon,2017-07-21 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,0,,,0,0,0,,0,,0
+Monte,Kuk,47.659,-120.613,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Walker Canyon,2017-07-22 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,0,,,1,0,0,,0,,0
+Monte,Kuk,47.659,-120.613,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Walker Canyon,2017-07-23 00:00:00,0,0,1,0,0,0,,1,1,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,47.659,-120.613,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Walker Canyon,2017-07-24 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,47.5978,-120.715,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Tumwater Tunnel,2017-07-19 00:00:00,0,0,0,0,0,0,,1,0,1,0,1,1,,,0,0,0,,0,,0
+Monte,Kuk,47.5978,-120.715,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Tumwater Tunnel,2017-07-20 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,0,,0
+Monte,Kuk,47.5978,-120.715,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Tumwater Tunnel,2017-07-21 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,47.7051,-120.713,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,River Road,2017-07-17 00:00:00,0,0,0,0,0,0,,1,1,0,0,0,0,,,1,0,0,,0,,0
+Monte,Kuk,47.7051,-120.713,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,River Road,2017-07-18 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,47.7051,-120.713,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,River Road,2017-07-19 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,0,0,,0,,0
+Monte,Kuk,47.8371,-120.801,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Lake Wenatchee,2017-07-24 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,0,1,1,,0,,0
+Monte,Kuk,47.8371,-120.801,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Lake Wenatchee,2017-07-25 00:00:00,0,0,1,0,0,0,,1,1,1,0,1,1,,,1,1,1,,0,,0
+Monte,Kuk,47.8371,-120.801,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Lake Wenatchee,2017-07-26 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,1,,,0,1,1,,0,,0
+Monte,Kuk,47.8371,-120.801,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Lake Wenatchee,2017-07-27 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,1,,,0,1,1,,0,,0
+Monte,Kuk,47.8371,-120.801,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Lake Wenatchee,2017-07-28 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,47.6335,-120.63,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Eagle Creek,2017-07-13 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,0,,,0,0,0,,0,,0
+Monte,Kuk,47.6335,-120.63,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Eagle Creek,2017-07-14 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,0,,,1,1,0,,0,,0
+Monte,Kuk,47.6335,-120.63,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Eagle Creek,2017-07-15 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,0,,,1,0,1,,0,,0
+Monte,Kuk,47.6335,-120.63,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Eagle Creek,2017-07-16 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,47.6335,-120.63,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Eagle Creek,2017-07-17 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5452,-121.113,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.5,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Chinook Pass,2017-08-14 00:00:00,0,1,0,0,0,0,,1,1,1,0,0,1,,,0,1,1,,0,,0
+Monte,Kuk,46.5452,-121.113,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.5,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Chinook Pass,2017-08-15 00:00:00,0,1,1,0,0,0,,1,1,1,0,0,1,,,0,1,1,,0,,0
+Monte,Kuk,46.5452,-121.113,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.5,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Chinook Pass,2017-08-16 00:00:00,0,1,1,0,0,0,,1,1,1,0,1,1,,,0,1,1,,0,,0
+Monte,Kuk,46.5452,-121.113,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,2.5,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Chinook Pass,2017-08-17 00:00:00,0,1,1,0,0,0,,1,1,1,0,0,1,,,0,1,1,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-18 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-19 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-20 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-21 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,0,1,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-22 00:00:00,0,1,1,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-23 00:00:00,0,1,0,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-24 00:00:00,0,1,0,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-25 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-26 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-27 00:00:00,0,1,0,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-28 00:00:00,0,1,0,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-29 00:00:00,0,0,0,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-09-30 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-01 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-02 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-11 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-12 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-13 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-14 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-15 00:00:00,0,1,1,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-16 00:00:00,0,1,0,0,0,0,,1,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-17 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-18 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-19 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-20 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-21 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-22 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-23 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-24 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-25 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-26 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-27 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-28 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,46.5728,-121.534,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,1.0,meters,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Boulder Cave,2017-10-29 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,48.3341,-119.454,Pettersson,D500X,SMM-U1,None,5.0,feet,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Conconully,2017-06-02 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,1,0,,0,,0
+Monte,Kuk,48.3341,-119.454,Pettersson,D500X,SMM-U1,None,5.0,feet,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Conconully,2017-06-03 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,48.3341,-119.454,Pettersson,D500X,SMM-U1,None,5.0,feet,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Conconully,2017-06-04 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Monte,Kuk,48.3341,-119.454,Pettersson,D500X,SMM-U1,None,5.0,feet,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Conconully,2017-06-21 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,1,,,0,0,1,,0,,0
+Monte,Kuk,48.3341,-119.454,Pettersson,D500X,SMM-U1,None,5.0,feet,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Conconully,2017-06-22 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,1,,,0,0,1,,0,,0
+Monte,Kuk,48.3341,-119.454,Pettersson,D500X,SMM-U1,None,5.0,feet,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Conconully,2017-06-23 00:00:00,0,0,1,0,0,0,,1,1,1,0,0,1,,,0,0,1,,0,,0
+Monte,Kuk,48.3341,-119.454,Pettersson,D500X,SMM-U1,None,5.0,feet,Sonobat 4,Personal Experience,Okanogan-Wenatchee National Forest,Conconully,2017-06-24 00:00:00,0,0,0,0,0,0,,0,0,0,0,0,0,,,0,0,0,,0,,0
+Lauren,Hoyle,39.493,-121.041,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2483_SW,2017-07-11 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,1,1,,0,,0
+Lauren,Hoyle,39.493,-121.041,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2483_SW,2017-07-12 00:00:00,0,0,1,0,0,0,,0,0,1,0,0,0,,,0,0,1,,0,,0
+Lauren,Hoyle,39.493,-121.041,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2483_SW,2017-07-13 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,0,1,,0,,0
+Lauren,Hoyle,39.493,-121.041,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2483_SW,2017-07-14 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,0,1,,0,,0
+Lauren,Hoyle,39.493,-121.041,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2483_SW,2017-07-15 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,1,1,,0,,0
+Lauren,Hoyle,39.493,-121.041,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2483_SW,2017-07-16 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,0,0,1,,0,,0
+Lauren,Hoyle,39.493,-121.041,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2483_SW,2017-07-17 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,1,,0,,0
+Lauren,Hoyle,39.5008,-120.98736,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2531_SE,2017-07-11 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Lauren,Hoyle,39.5008,-120.98736,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2531_SE,2017-07-12 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Lauren,Hoyle,39.5008,-120.98736,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2531_SE,2017-07-13 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Lauren,Hoyle,39.5008,-120.98736,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2531_SE,2017-07-14 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Lauren,Hoyle,39.5008,-120.98736,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2531_SE,2017-07-15 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Lauren,Hoyle,39.5008,-120.98736,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2531_SE,2017-07-16 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,0,0,0,,0,,0
+Lauren,Hoyle,39.5008,-120.98736,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.5,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2531_SE,2017-07-17 00:00:00,0,0,0,0,0,0,,0,0,1,0,0,0,,,1,0,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-10 00:00:00,0,0,0,0,0,0,,0,1,1,1,1,0,,,1,1,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-11 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,1,1,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-12 00:00:00,0,0,0,0,0,0,,0,0,1,0,1,0,,,1,1,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-13 00:00:00,0,0,0,0,0,0,,1,1,1,0,1,0,,,1,1,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-14 00:00:00,0,0,0,0,0,0,,1,0,1,0,1,0,,,1,1,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-15 00:00:00,0,0,0,0,0,0,,0,1,1,0,1,1,,,0,0,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-16 00:00:00,0,0,0,0,0,0,,1,0,1,1,1,0,,,1,0,0,,0,,0
+Lauren,Hoyle,39.545,-120.98887,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2538_NE,2017-07-17 00:00:00,0,0,0,0,0,0,,1,0,1,0,1,0,,,0,0,0,,0,,1
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-10 00:00:00,0,1,0,0,0,0,,0,0,1,0,0,0,,,1,1,1,,0,,0
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-11 00:00:00,0,0,1,0,0,0,,0,0,1,0,0,0,,,0,1,1,,0,,0
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-12 00:00:00,0,0,1,0,0,0,,0,0,1,0,1,0,,,0,1,1,,0,,0
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-13 00:00:00,0,0,1,0,0,0,,0,0,1,0,1,0,,,0,1,1,,0,,0
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-14 00:00:00,0,0,1,0,0,0,,0,0,1,0,1,0,,,0,1,1,,0,,0
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-15 00:00:00,0,0,1,0,0,0,,0,0,1,0,0,0,,,1,1,1,,0,,0
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-16 00:00:00,0,0,1,0,0,0,,0,0,1,1,1,0,,,1,1,1,,0,,0
+Lauren,Hoyle,39.474,-121.068,Wildlife Acoustics,SM4BAT-FS,SMM-U1,None,3.0,meters,Sonobat 4,Personal Experience,Tahoe National Forest,2602_2576_SW,2017-07-17 00:00:00,0,0,1,0,0,0,,0,0,1,0,1,1,,,0,1,1,,0,,0

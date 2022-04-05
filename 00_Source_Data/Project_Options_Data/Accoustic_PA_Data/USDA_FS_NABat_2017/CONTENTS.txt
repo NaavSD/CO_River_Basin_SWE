@@ -1,0 +1,86 @@
+
+# USDA Forest Service NABat Stationary Detectors 2017
+
+
+## URL
+https://databasin.org/datasets/6999b5d26e2d4ffa9652fe6b8df4825d/
+
+
+## Credits
+Ted Weller, Christen Long, Steve Anderson, Linda Angerer, Coye Burnett, Tim Catton, Carla DeJulio, Robin Eliason, Cheron Ferland, Robin Garwood, Tracy Grazia, Brett Hillman, Catherine Johnson, Pete Johnston, Monte Kuk, Theresa Lowe, Cassandra Marszal, Tom Rickman, Kary Schlick, Katrina Smith, Todd Stewart, Gordon Watts, Misako Wright, Susan Yasuda,
+
+
+## Uploaded By
+[Ted Weller](https://databasin.org/people/tedweller/)
+
+
+## Description
+Dataset represents presence of bat species as determined from acoustic
+  
+
+monitoring. Detectors were deployed at sites within National Forests according
+  
+
+A Plan for the North American Bat Monitoring Program (NABat) guidelines.
+  
+
+Acoustic data were screened and analyzed by Christen Long, Bat Conservation International. Data were analyzed to determine species present per night. Map symbols represent detector locations. For more information at each site, click the info tab, and then draw a box around your area of interest.
+
+
+## Use Constraints
+This work is licensed under a  Creative Commons Attribution 3.0 License .
+
+
+### Data Basin Metadata
+metadata/metadata1.xml
+
+
+### Data Files
+data/USDA Forest Service NABat Stationary Detectors 2017.csv
+
+
+
+### Attribute Data
+
+anpa    ANPA    Enter 1 if Antrozous pallidus was recorded and identified on a given night and 0 on nights when it was not recorded.    
+coto    COTO    Enter 1 if Corynorhinus townsendii  was recorded and identified on a given night and 0 on nights when it was not recorded.    
+db_created_date    Created Date    The date this record was created    
+db_creator    Data Basin Creator    Data Basin User who created this record    
+dbasin_geom    dbasin_geom        
+db_id    db_id        
+det_id    Detector ID    The name, number, or other identifier of the detector used to collect data (req&#39;d)    
+det_mfg    Detector Manufacturer    The manufacturer of the detector    
+det_model    Detector Model    Model of detector used  to collect data    
+epfu    EPFU    Enter 1 if Eptesicus fuscus was recorded and identified on a given night and 0 on nights when it was not recorded.    
+euma    EUMA    Enter 1 if Euderma maculatum was recorded and identified on a given night and 0 on nights when it was not recorded.    
+eupe    EUPE    Enter 1 if Eumops perotis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+first_name    First Name    First name of person who collected the data    
+labl    LABL    Enter 1 if Lasiurus blossevillii was recorded and identified on a given night and 0 on nights when it was not recorded.    
+labo    LABO    Enter 1 if Lasiurus borealis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+laci    LACI    Enter 1 if Lasiurus cinereus was recorded and identified on a given night and 0 on nights when it was not recorded.    
+lano    LANO    Enter 1 if Lasionycteris noctivagans was recorded and identified on a given night and 0 on nights when it was not recorded.    
+last_name    Last  Name    Last Name of person who collected the data    
+mic_ht    Microphone Height    Height, above ground surface, microphone was placed during data collection    
+mic_ht_units    Microphone Height Units    Units used to report microphone height    
+mic_type    Microphone Type    Type of microphone used to collect data    
+myca    MYCA    Enter 1 if Myotis californicus was recorded and identified on a given night and 0 on nights when it was not recorded.    
+myci    MYCI    Enter 1 if Myotis ciliolabrum was recorded and identified on a given night and 0 on nights when it was not recorded.    
+myev    MYEV    Enter 1 if Myotis evotis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+mylu    MYLU    Enter 1 if Myotis lucifugus was recorded and identified on a given night and 0 on nights when it was not recorded.    
+myse    MYSE    Enter 1 if Myotis septentrionalis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+myso    MYSO    Enter 1 if Myotis sodalis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+myth    MYTH    Enter 1 if Myotis thysanodes was recorded and identified on a given night and 0 on nights when it was not recorded.    
+myvo    MYVO    Enter 1 if Myotis volans was recorded and identified on a given night and 0 on nights when it was not recorded.    
+myyu    MYYU    Enter 1 if Myotis yumanensis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+night    Night    The date for the night on which data was collected (date night started)    
+nyhu    NYHU    Enter 1 if Nycticeius humeralis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+pahe    PAHE    Enter 1 if Parastrellus hesperus was recorded and identified on a given night and 0 on nights when it was not recorded.    
+pesu    PESU    Enter 1 if Perimyotis subflavus was recorded and identified on a given night and 0 on nights when it was not recorded.    
+call_id_1    Primary Call ID    Primary method used to identify echolocation calls to species    
+refl_type    Reflector Type    Type of reflector used  (e.g. for weather-proofing)    
+call_id_2    Secondary Call ID    What additional methods were used to confirm call identifications?    
+site_id    Site ID    The name (or other identifier) of the site where data was collected.    
+tabr    TABR    Enter 1 if Tadarida brasiliensis was recorded and identified on a given night and 0 on nights when it was not recorded.    
+x_coord    X Coordinate    Longitude (decimal degrees) or UTM Easting where data was collected    
+y_coord    Y Coordinate    Latitude (decimal degrees) or UTM Northing where data was collected    
+

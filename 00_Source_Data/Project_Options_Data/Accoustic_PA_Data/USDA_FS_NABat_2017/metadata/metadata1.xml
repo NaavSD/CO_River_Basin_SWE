@@ -1,0 +1,322 @@
+<?xml version="1.0" ?>
+<metadata>
+	<eainfo>
+		<detailed>
+			<attr>
+				<attrdef>Enter 1 if Antrozous pallidus was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>ANPA</attalias>
+				<attrlabl>anpa</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Corynorhinus townsendii  was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>COTO</attalias>
+				<attrlabl>coto</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>The date this record was created</attrdef>
+				<attalias>Created Date</attalias>
+				<attrlabl>db_created_date</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Data Basin User who created this record</attrdef>
+				<attalias>Data Basin Creator</attalias>
+				<attrlabl>db_creator</attrlabl>
+			</attr>
+			<attr>
+				<attalias>dbasin_geom</attalias>
+				<attrlabl>dbasin_geom</attrlabl>
+			</attr>
+			<attr>
+				<attalias>db_id</attalias>
+				<attrlabl>db_id</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>The name, number, or other identifier of the detector used to collect data (req'd)</attrdef>
+				<attalias>Detector ID</attalias>
+				<attrlabl>det_id</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>The manufacturer of the detector</attrdef>
+				<attalias>Detector Manufacturer</attalias>
+				<attrlabl>det_mfg</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Model of detector used  to collect data</attrdef>
+				<attalias>Detector Model</attalias>
+				<attrlabl>det_model</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Eptesicus fuscus was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>EPFU</attalias>
+				<attrlabl>epfu</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Euderma maculatum was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>EUMA</attalias>
+				<attrlabl>euma</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Eumops perotis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>EUPE</attalias>
+				<attrlabl>eupe</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>First name of person who collected the data</attrdef>
+				<attalias>First Name</attalias>
+				<attrlabl>first_name</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Lasiurus blossevillii was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>LABL</attalias>
+				<attrlabl>labl</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Lasiurus borealis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>LABO</attalias>
+				<attrlabl>labo</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Lasiurus cinereus was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>LACI</attalias>
+				<attrlabl>laci</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Lasionycteris noctivagans was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>LANO</attalias>
+				<attrlabl>lano</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Last Name of person who collected the data</attrdef>
+				<attalias>Last  Name</attalias>
+				<attrlabl>last_name</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Height, above ground surface, microphone was placed during data collection</attrdef>
+				<attalias>Microphone Height</attalias>
+				<attrlabl>mic_ht</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Units used to report microphone height</attrdef>
+				<attalias>Microphone Height Units</attalias>
+				<attrlabl>mic_ht_units</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Type of microphone used to collect data</attrdef>
+				<attalias>Microphone Type</attalias>
+				<attrlabl>mic_type</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis californicus was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYCA</attalias>
+				<attrlabl>myca</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis ciliolabrum was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYCI</attalias>
+				<attrlabl>myci</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis evotis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYEV</attalias>
+				<attrlabl>myev</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis lucifugus was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYLU</attalias>
+				<attrlabl>mylu</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis septentrionalis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYSE</attalias>
+				<attrlabl>myse</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis sodalis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYSO</attalias>
+				<attrlabl>myso</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis thysanodes was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYTH</attalias>
+				<attrlabl>myth</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis volans was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYVO</attalias>
+				<attrlabl>myvo</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Myotis yumanensis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>MYYU</attalias>
+				<attrlabl>myyu</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>The date for the night on which data was collected (date night started)</attrdef>
+				<attalias>Night</attalias>
+				<attrlabl>night</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Nycticeius humeralis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>NYHU</attalias>
+				<attrlabl>nyhu</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Parastrellus hesperus was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>PAHE</attalias>
+				<attrlabl>pahe</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Perimyotis subflavus was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>PESU</attalias>
+				<attrlabl>pesu</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Primary method used to identify echolocation calls to species</attrdef>
+				<attalias>Primary Call ID</attalias>
+				<attrlabl>call_id_1</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Type of reflector used  (e.g. for weather-proofing)</attrdef>
+				<attalias>Reflector Type</attalias>
+				<attrlabl>refl_type</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>What additional methods were used to confirm call identifications?</attrdef>
+				<attalias>Secondary Call ID</attalias>
+				<attrlabl>call_id_2</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>The name (or other identifier) of the site where data was collected.</attrdef>
+				<attalias>Site ID</attalias>
+				<attrlabl>site_id</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Enter 1 if Tadarida brasiliensis was recorded and identified on a given night and 0 on nights when it was not recorded.</attrdef>
+				<attalias>TABR</attalias>
+				<attrlabl>tabr</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Longitude (decimal degrees) or UTM Easting where data was collected</attrdef>
+				<attalias>X Coordinate</attalias>
+				<attrlabl>x_coord</attrlabl>
+			</attr>
+			<attr>
+				<attrdef>Latitude (decimal degrees) or UTM Northing where data was collected</attrdef>
+				<attalias>Y Coordinate</attalias>
+				<attrlabl>y_coord</attrlabl>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<techpreq>Desktop GIS software.</techpreq>
+		<stdorder>
+			<digform>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>https://databasin.org/datasets/6999b5d26e2d4ffa9652fe6b8df4825d/</networkr>
+							</networka>
+						</computer>
+						<accinstr>Download from https://databasin.org</accinstr>
+					</onlinopt>
+				</digtopt>
+				<digtinfo>
+					<formspec>Feature Layer</formspec>
+					<formname>Feature Layer</formname>
+					<filedec>No compression applied</filedec>
+				</digtinfo>
+			</digform>
+			<ordering>Download from https://databasin.org</ordering>
+			<fees>None</fees>
+		</stdorder>
+		<distliab>No warranty is made by Data Basin for use of this dataset.  No warranty is made by Data Basin regarding the accuracy, reliability, or completeness of this dataset. In no event shall Data Basin have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of the use or reliance on the geographic or attribute data contained within this dataset or arising out of the delivery, installation, operation, or support by Data Basin.</distliab>
+		<distrib>
+			<cntinfo>
+				<cntemail>databasin_admin@consbio.org</cntemail>
+				<cntvoice>541-757-0687</cntvoice>
+				<cntaddr>
+					<country>USA</country>
+					<postal>97333</postal>
+					<state>OR</state>
+					<city>Corvallis</city>
+					<address>136 SW Washington Ave, Suite 202</address>
+					<addrtype>physical address</addrtype>
+				</cntaddr>
+				<cntperp>
+					<cntper>Data Basin Administrator</cntper>
+					<cntorg>Data Basin</cntorg>
+				</cntperp>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekey>spotted bat,myotis californicus,batamp,myotis ciliolabrum,acoustic detection,mexican free-tailed bat,eumops,us forest service,hoary bat,corynorhinus townsendii,usda forest service,myotis volans,lasionycteris noctivagans,myotis yumanensis,silver-haired bat,california,myotis lucifugus,bat amp,myotis thysanodes,lasiurus blossevillii,nabat,new mexico,pallid bat,lasiurus cinereus,myotis evotis</themekey>
+			</theme>
+		</keywords>
+		<useconst>This work is licensed under a  Creative Commons Attribution 3.0 License .</useconst>
+		<spdom>
+			<bounding>
+				<southbc>4023090.05714329</southbc>
+				<northbc>6163618.05010378</northbc>
+				<eastbc>-8119901.74400292</eastbc>
+				<westbc>-13769328.4303076</westbc>
+			</bounding>
+		</spdom>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>Ecologist</cntpos>
+				<cntemail>tweller@fs.fed.us</cntemail>
+				<cntperp>
+					<cntorg>USDA Forest Service</cntorg>
+					<cntper>Ted Weller</cntper>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+		<ptcontac>
+			<cntinfo>
+				<cntpos>BatAMP Project Manager</cntpos>
+				<cntemail>clong@batcon.org</cntemail>
+				<cntperp>
+					<cntorg>Bat Conservation International</cntorg>
+					<cntper>Christen Long</cntper>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+		<descript>
+			<abstract>Dataset represents presence of bat species as determined from acousticmonitoring.  Detectors were deployed at sites within National Forests accordingA Plan for the North American Bat Monitoring Program (NABat) guidelines.Acoustic data were screened and analyzed by Christen Long, Bat Conservation International. Data were analyzed to determine species present per night. Map symbols represent detector locations. For more information at each site, click the info tab, and then draw a box around your area of interest.</abstract>
+		</descript>
+		<citation>
+			<citeinfo>
+				<origin>Ted Weller</origin>
+				<origin>Christen Long</origin>
+				<origin>Steve Anderson</origin>
+				<origin>Linda Angerer</origin>
+				<origin>Coye Burnett</origin>
+				<origin>Tim Catton</origin>
+				<origin>Carla DeJulio</origin>
+				<origin>Robin Eliason</origin>
+				<origin>Cheron Ferland</origin>
+				<origin>Robin Garwood</origin>
+				<origin>Tracy Grazia</origin>
+				<origin>Brett Hillman</origin>
+				<origin>Catherine Johnson</origin>
+				<origin>Pete Johnston</origin>
+				<origin>Monte Kuk</origin>
+				<origin>Theresa Lowe</origin>
+				<origin>Cassandra Marszal</origin>
+				<origin>Tom Rickman</origin>
+				<origin>Kary Schlick</origin>
+				<origin>Katrina Smith</origin>
+				<origin>Todd Stewart</origin>
+				<origin>Gordon Watts</origin>
+				<origin>Misako Wright</origin>
+				<origin>Susan Yasuda</origin>
+				<onlink>https://databasin.org/datasets/6999b5d26e2d4ffa9652fe6b8df4825d/</onlink>
+				<title>USDA Forest Service NABat Stationary Detectors 2017</title>
+			</citeinfo>
+		</citation>
+	</idinfo>
+</metadata>
