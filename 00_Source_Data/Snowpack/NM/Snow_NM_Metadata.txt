@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Day
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOTEL 316: Bateman, NM
+#	SNOTEL 394: Chamita, NM
+#	SNOTEL 921: Elk Cabin, NM
+#	SNOTEL 486: Frisco Divide, NM
+#	SNOTEL 491: Gallegos Peak, NM
+#	SNOTEL 1173: Garita Peak, NM
+#	SNOTEL 532: Hopewell, NM
+#	SNOTEL 595: Lookout Mountain, NM
+#	SNOTEL 1048: Mcknight Cabin, NM
+#	SNOTEL 1138: Navajo Whiskey Ck, NM
+#	SNOTEL 665: North Costilla, NM
+#	SNOTEL 1170: Palo, NM
+#	SNOTEL 708: Quemazon, NM
+#	SNOTEL 715: Red River Pass #2, NM
+#	SNOTEL 933: Rice Park, NM
+#	SNOTEL 1254: Rio Santa Barbara, NM
+#	SNOTEL 1172: San Antonio Sink, NM
+#	SNOTEL 922: Santa Fe, NM
+#	SNOTEL 744: Senorita Divide #2, NM
+#	SNOTEL 1169: Shuree, NM
+#	SNOTEL 1034: Sierra Blanca, NM
+#	SNOTEL 755: Signal Peak, NM
+#	SNOTEL 757: Silver Creek Divide, NM
+#	SNOTEL 1168: Taos Powderhorn, NM
+#	SNOTEL 1307: Taos Pueblo, NM
+#	SNOTEL 934: Tolby, NM
+#	SNOTEL 1083: Tres Ritos, NM
+#	SNOTEL 1017: Vacas Locas, NM
+#	SNOTEL 854: Wesner Springs, NM
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type  Function Type  Function Duration             Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily; Date Range: Period of Record
+#
+# As of: Apr 4, 2022 6:38:42 PM GMT-08:00
+#

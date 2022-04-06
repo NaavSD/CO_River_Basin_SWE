@@ -1,0 +1,119 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Day
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOLITE 1198: American Beauty, NV
+#	SNOLITE 1240: Bald Mtn AM, NV
+#	SNOTEL 321: Bear Creek, NV
+#	SNOTEL 334: Berry Creek, NV
+#	SNOTEL 336: Big Bend, NV
+#	SNOTEL 337: Big Creek Sum, NV
+#	SNOTEL 340: Big Meadow, NV
+#	SNOTEL 1155: Bird Creek, NV
+#	SNOTEL 1111: Bristlecone Trail, NV
+#	SNOTEL 373: Buckskin Lower, NV
+#	SNOTEL 1152: Cave Mountain, NV
+#	SNOTEL 1204: Columbia Basin, NV
+#	SNOTEL 1209: Corduroy Flat, NV
+#	SNOTEL 417: Corral Canyon, NV
+#	SNOTEL 1210: Defiance Mines, NV
+#	SNOTEL 443: Diamond Peak, NV
+#	SNOTEL 445: Disaster Peak, NV
+#	SNOTEL 453: Dorsey Basin, NV
+#	SNOTEL 454: Draw Creek, NV
+#	SNOTEL 1243: Dry Creek, NV
+#	SNOTEL 476: Fawn Creek, NV
+#	SNOTEL 1262: Fry Canyon, NV
+#	SNOTEL 1195: Golconda, NV
+#	SNOTEL 498: Granite Peak, NV
+#	SNOTEL 503: Green Mountain, NV
+#	SNOTEL 527: Hole-in-Mountain, NV
+#	SNOTEL 548: Jack Creek Upper, NV
+#	SNOTEL 549: Jacks Peak, NV
+#	SNOTEL 1211: Jakes Creek, NV
+#	SNOTEL 1150: Kalamazoo, NV
+#	SNOTEL 569: Lamance Creek, NV
+#	SNOTEL 570: Lamoille #3, NV
+#	SNOTEL 573: Laurel Draw, NV
+#	SNOTEL 1112: Lee Canyon, NV
+#	SNOTEL 1006: Lewis Peak, NV
+#	SNOTEL 1242: Little Valley, NV
+#	SNOTEL 615: Marlette Lake, NV
+#	SNOTEL 1207: Merritt Mountain, NV
+#	SNOTEL 1206: Midas, NV
+#	SNOTEL 652: Mt Rose Ski Area, NV
+#	SNOTEL 1272: ONeil Creek, NV
+#	SNOTEL 1244: Pole Canyon, NV
+#	SNOTEL 698: Pole Creek R.S., NV
+#	SNOTEL 2170: Porter Canyon, NV
+#	SNOLITE 1297: Quinn Ridge, NV
+#	SNOTEL 1110: Rainbow Canyon, NV
+#	SNOLITE 1199: Robinson Lake, NV
+#	SNOTEL 746: Seventysix Creek, NV
+#	SNOTEL 750: Sheldon, NV
+#	SNOTEL 1205: Silver Creek Nv, NV
+#	SNOLITE 1235: Smith Creek, NV
+#	SNOTEL 1208: Snowstorm Mtn, NV
+#	SNOTEL 1203: Stag Mountain, NV
+#	SNOTEL 1194: Summit Lk, NV
+#	SNOTEL 811: Taylor Canyon, NV
+#	SNOTEL 1202: Tent Mtn Lower, NV
+#	SNOLITE 1201: Tent Mtn Upper, NV
+#	SNOTEL 1136: Toe Jam, NV
+#	SNOLITE 1200: Trout Creek Upper, NV
+#	SNOTEL 1137: Vacarro Springs, NV
+#	SNOTEL 849: Ward Mountain, NV
+#	SNOTEL 1147: Wheeler Peak, NV
+#	SNOTEL 1213: White River Nv, NV
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type  Function Type  Function Duration             Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily; Date Range: Period of Record
+#
+# As of: Apr 4, 2022 6:33:47 PM GMT-08:00
+#

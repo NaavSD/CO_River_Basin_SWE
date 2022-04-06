@@ -1,0 +1,140 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Day
+#
+# Data for the following site(s) are contained in this file:
+#
+#	RESERVOIR 07007010: Adobe Creek Reservoir, CO
+#	RESERVOIR 06016010: Antero Reservoir, CO
+#	RESERVOIR 06016020: Barr Lake, CO
+#	RESERVOIR 08219000: Beaver Reservoir, CO
+#	RESERVOIR 06016030: Black Hollow Reservoir, CO
+#	RESERVOIR 09009010: Blue Mesa Reservoir, CO
+#	RESERVOIR 06016040: Boyd Lake, CO
+#	RESERVOIR 06016050: Cache La Poudre, CO
+#	RESERVOIR 06016060: Carter Lake, CO
+#	RESERVOIR 06016070: Chambers Lake, CO
+#	RESERVOIR 06016080: Cheesman Lake, CO
+#	RESERVOIR 07007020: Clear Creek Reservoir, CO
+#	RESERVOIR 06016090: Cobb Lake, CO
+#	RESERVOIR 08008170: Continental Reservoir, CO
+#	RESERVOIR 09009340: Crawford Reservoir, CO
+#	RESERVOIR 09126000: Crystal Reservoir, CO
+#	RESERVOIR 09009020: Dillon Reservoir, CO
+#	RESERVOIR 06016100: Elevenmile Canyon Reservoir, CO
+#	RESERVOIR 09246300: Elkhead Reservoir, CO
+#	RESERVOIR 06016110: Empire Reservoir, CO
+#	RESERVOIR 06016120: Fossil Creek Reservoir, CO
+#	RESERVOIR 09009320: Fruitgrowers Reservoir, CO
+#	RESERVOIR 09009330: Fruitland Reservoir, CO
+#	RESERVOIR 07007040: Great Plains Reservoir, CO
+#	RESERVOIR 09009030: Green Mountain Reservoir, CO
+#	RESERVOIR 06016130: Gross Reservoir, CO
+#	RESERVOIR 09009170: Groundhog Reservoir, CO
+#	RESERVOIR 06016140: Halligan Reservoir, CO
+#	RESERVOIR 07007140: Holbrook Lake, CO
+#	RESERVOIR 09009040: Homestake Reservoir, CO
+#	RESERVOIR 07007050: Horse Creek Reservoir, CO
+#	RESERVOIR 06016370: Horsecreek Reservoir, CO
+#	RESERVOIR 06016150: Horsetooth Reservoir, CO
+#	RESERVOIR 09009050: Jackson Gulch Reservoir, CO
+#	RESERVOIR 06016160: Jackson Lake Reservoir, CO
+#	RESERVOIR 07007060: John Martin Reservoir, CO
+#	RESERVOIR 06016170: Julesburg Reservoir, CO
+#	RESERVOIR 2103582: La Jara Reservoir, CO
+#	RESERVOIR 09009060: Lake Granby, CO
+#	RESERVOIR 07007130: Lake Henry, CO
+#	RESERVOIR 06016180: Lake Loveland Reservoir, CO
+#	RESERVOIR 09009070: Lemon Reservoir, CO
+#	RESERVOIR 06016190: Lone Tree Reservoir, CO
+#	RESERVOIR 06016200: Mariano Reservoir, CO
+#	RESERVOIR 06016220: Marshall Reservoir, CO
+#	RESERVOIR 06016210: Marston Reservoir, CO
+#	RESERVOIR MPHC2000: Mcphee Reservoir, CO
+#	RESERVOIR 07007070: Meredith Reservoir, CO
+#	RESERVOIR 06016230: Milton Reservoir, CO
+#	RESERVOIR 09009080: Morrow Point Reservoir, CO
+#	RESERVOIR MTNRESCO: Mountain Home Reservoir, CO
+#	RESERVOIR 09009350: Narraguinnep Reservoir, CO
+#	RESERVOIR 09009100: Paonia Reservoir, CO
+#	RESERVOIR 08008120: Platoro Reservoir, CO
+#	RESERVOIR 06016240: Point Of Rocks Reservoir, CO
+#	RESERVOIR 06016250: Prewitt Reservoir, CO
+#	RESERVOIR 07007090: Pueblo Reservoir, CO
+#	RESERVOIR 06016260: Ralph Price Reservoir, CO
+#	RESERVOIR 09147022: Ridgway Reservoir, CO
+#	RESERVOIR 08008130: Rio Grande Reservoir, CO
+#	RESERVOIR 06016270: Riverside Reservoir, CO
+#	RESERVOIR 09009110: Ruedi Reservoir, CO
+#	RESERVOIR 08008140: Sanchez Reservoir, CO
+#	RESERVOIR 08008150: Santa Maria Reservoir, CO
+#	RESERVOIR 09014500: Shadow Mountain Reservoir, CO
+#	RESERVOIR 09125800: Silverjack Reservoir, CO
+#	RESERVOIR 16016025: Spinney Mountain Reservoir, CO
+#	RESERVOIR 09237495: Stagecoach Reservoir nr Oak Creek, CO
+#	RESERVOIR 06016280: Standley Reservoir, CO
+#	RESERVOIR 09009120: Taylor Park Reservoir, CO
+#	RESERVOIR 08008160: Terrace Reservoir, CO
+#	RESERVOIR 06016290: Terry Reservoir, CO
+#	RESERVOIR 07007100: Trinidad Lake, CO
+#	RESERVOIR 09171300: Trout Lake Reservoir, CO
+#	RESERVOIR 07007110: Turquoise Lake, CO
+#	RESERVOIR 07007120: Twin Lakes Reservoir, CO
+#	RESERVOIR 06016300: Union Reservoir, CO
+#	RESERVOIR 09009130: Vallecito Reservoir, CO
+#	RESERVOIR 09009140: Vega Reservoir, CO
+#	RESERVOIR 09116500: Vouga Reservoir, CO
+#	RESERVOIR 09009150: Williams Fork Reservoir, CO
+#	RESERVOIR 09009160: Willow Creek Reservoir, CO
+#	RESERVOIR 06016310: Windsor Reservoir, CO
+#	RESERVOIR 09041395: Wolford Mountain Reservoir, CO
+#	RESERVOIR YAMRESCO: Yamcolo Reservoir, CO
+# 
+# Data items provided in this file:
+#
+# Element Name              Value Type  Function Type  Function Duration             Base Data  Measurement Units  Sensor Depth  Element Code  Description               
+# Reservoir Storage Volume  Value       None           Instantaneous - Start of Day  N/A        Acre feet          N/A           RESC          Reservoir storage volume  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily; Date Range: Period of Record
+#
+# As of: Apr 5, 2022 7:07:03 AM GMT-08:00
+#

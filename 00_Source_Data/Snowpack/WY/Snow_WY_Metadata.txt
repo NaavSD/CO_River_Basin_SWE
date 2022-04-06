@@ -1,0 +1,145 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Day
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOTEL 309: Bald Mtn., WY
+#	SNOTEL 314: Base Camp, WY
+#	SNOTEL 317: Battle Mountain, WY
+#	SNOTEL 325: Bear Trap Meadow, WY
+#	SNOTEL 326: Beartooth Lake, WY
+#	SNOTEL 931: Big Goose, WY
+#	SNOTEL 342: Big Sandy Opening, WY
+#	SNOTEL 1119: Blackhall Mtn, WY
+#	SNOTEL 350: Blackwater, WY
+#	SNOTEL 353: Blind Bull Sum, WY
+#	SNOTEL 358: Bone Springs Div, WY
+#	SNOTEL 367: Brooklyn Lake, WY
+#	SNOTEL 377: Burgess Junction, WY
+#	SNOTEL 379: Burroughs Creek, WY
+#	SNOTEL 384: Canyon, WY
+#	SNOTEL 389: Casper Mtn., WY
+#	SNOTEL 1130: Castle Creek, WY
+#	SNOTEL 1046: Cinnabar Park, WY
+#	SNOTEL 402: Cloud Peak Reservoir, WY
+#	SNOTEL 405: Cold Springs, WY
+#	SNOTEL 982: Cole Canyon, WY
+#	SNOTEL 419: Cottonwood Creek, WY
+#	SNOTEL 1045: Crow Creek, WY
+#	SNOTEL 923: Deer Park, WY
+#	SNOTEL 449: Divide Peak, WY
+#	SNOTEL 451: Dome Lake, WY
+#	SNOTEL 460: East Rim Divide, WY
+#	SNOTEL 468: Elkhart Park G.S., WY
+#	SNOTEL 472: Evening Star, WY
+#	SNOTEL 1082: Grand Targhee, WY
+#	SNOTEL 497: Granite Creek, WY
+#	SNOTEL 499: Grassy Lake, WY
+#	SNOTEL 501: Grave Springs, WY
+#	SNOTEL 506: Gros Ventre Summit, WY
+#	SNOTEL 944: Gunsight Pass, WY
+#	SNOTEL 509: Hams Fork, WY
+#	SNOTEL 512: Hansen Sawmill, WY
+#	SNOTEL 525: Hobbs Park, WY
+#	SNOTEL 544: Indian Creek, WY
+#	SNOTEL 554: Kelley R.S., WY
+#	SNOTEL 555: Kendall R.S., WY
+#	SNOTEL 560: Kirwin, WY
+#	SNOTEL 571: Laprele Creek, WY
+#	SNOTEL 1134: Larsen Creek, WY
+#	SNOTEL 577: Lewis Lake Divide, WY
+#	SNOTEL 1131: Little Goose, WY
+#	SNOTEL 1047: Little Snake River, WY
+#	SNOTEL 585: Little Warm, WY
+#	SNOTEL 597: Loomis Park, WY
+#	SNOTEL 616: Marquette, WY
+#	SNOTEL 1196: Med Bow, WY
+#	SNOTEL 625: Middle Powder, WY
+#	SNOTEL 661: New Fork Lake, WY
+#	SNOTEL 668: North French Creek, WY
+#	SNOTEL 673: Old Battle, WY
+#	SNOTEL 676: Owl Creek, WY
+#	SNOTEL 683: Parker Peak, WY
+#	SNOTEL 689: Phillips Bench, WY
+#	SNOTEL 1133: Pocket Creek, WY
+#	SNOTEL 703: Powder River Pass, WY
+#	SNOTEL 716: Reno Hill, WY
+#	SNOTEL 1015: Sage Creek Basin, WY
+#	SNOTEL 730: Salt River Summit, WY
+#	SNOTEL 731: Sand Lake, WY
+#	SNOTEL 732: Sandstone RS, WY
+#	SNOTEL 751: Shell Creek, WY
+#	SNOTEL 764: Snake River Station, WY
+#	SNOTEL 765: Snider Basin, WY
+#	SNOTEL 1132: Soldier Park, WY
+#	SNOTEL 772: South Brush Creek, WY
+#	SNOTEL 775: South Pass, WY
+#	SNOTEL 779: Spring Creek Divide, WY
+#	SNOTEL 786: St. Lawrence Alt, WY
+#	SNOTEL 798: Sucker Creek, WY
+#	SNOTEL 806: Sylvan Lake, WY
+#	SNOTEL 807: Sylvan Road, WY
+#	SNOTEL 816: Thumb Divide, WY
+#	SNOTEL 818: Tie Creek, WY
+#	SNOTEL 819: Timber Creek, WY
+#	SNOTEL 822: Togwotee Pass, WY
+#	SNOTEL 826: Townsend Creek, WY
+#	SNOTEL 831: Triple Peak, WY
+#	SNOTEL 837: Two Ocean Plateau, WY
+#	SNOTEL 852: Webber Springs, WY
+#	SNOTEL 859: Whiskey Park, WY
+#	SNOTEL 868: Willow Creek, WY
+#	SNOTEL 872: Windy Peak, WY
+#	SNOTEL 875: Wolverine, WY
+#	SNOTEL 878: Younts Peak, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type  Function Type  Function Duration             Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily; Date Range: Period of Record
+#
+# As of: Apr 4, 2022 7:05:01 PM GMT-08:00
+#

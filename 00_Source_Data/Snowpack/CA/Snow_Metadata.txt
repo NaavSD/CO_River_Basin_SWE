@@ -1,0 +1,97 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Day
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOTEL 301: Adin Mtn, CA
+#	SNOLITE 1239: Althouse, CA
+#	SNOTEL 356: Blue Lakes, CA
+#	SNOTEL 1051: Burnside Lake, CA
+#	SNOTEL 1067: Carson Pass, CA
+#	SNOTEL 391: Cedar Pass, CA
+#	SNOTEL 977: Crowder Flat, CA
+#	SNOTEL 428: Css Lab, CA
+#	SNOTEL 446: Dismal Swamp, CA
+#	SNOTEL 462: Ebbetts Pass, CA
+#	SNOTEL 463: Echo Peak, CA
+#	SNOTEL 473: Fallen Leaf, CA
+#	SNOTEL 1049: Forestdale Creek, CA
+#	SNOTEL 1277: Fredonyer Peak, CA
+#	SNOTEL 508: Hagans Meadow, CA
+#	SNOTEL 518: Heavenly Valley, CA
+#	SNOTEL 1050: Horse Meadow, CA
+#	SNOTEL 539: Independence Camp, CA
+#	SNOTEL 540: Independence Creek, CA
+#	SNOTEL 541: Independence Lake, CA
+#	SNOTEL 574: Leavitt Lake, CA
+#	SNOTEL 575: Leavitt Meadows, CA
+#	SNOTEL 587: Lobdell Lake, CA
+#	SNOTEL 633: Monitor Pass, CA
+#	SNOTEL 784: Palisades Tahoe, CA
+#	SNOTEL 697: Poison Flat, CA
+#	SNOTEL 724: Rubicon #2, CA
+#	SNOTEL 771: Sonora Pass, CA
+#	SNOTEL 778: Spratt Creek, CA
+#	SNOTEL 1258: State Line, CA
+#	SNOLITE 993: State Line AM, CA
+#	SNOTEL 1052: Summit Meadow, CA
+#	SNOTEL 809: Tahoe City Cross, CA
+#	SNOTEL 834: Truckee #2, CA
+#	SNOTEL 846: Virginia Lakes Ridge, CA
+#	SNOTEL 848: Ward Creek #3, CA
+# 
+# Data items provided in this file:
+#
+# Element Name                Value Type  Function Type  Function Duration             Base Data  Measurement Units   Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent       Value       None           Instantaneous - Start of Day  N/A        Inches              N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth                  Value       None           Instantaneous - Start of Day  N/A        Inches              N/A           SNWD          Total snow depth                                                                                   
+# Snow Density                Value       None           Instantaneous - Start of Day  N/A        Percent             N/A           SNDN          The mass of snow per unit volume, expressed as a percent of water content                          
+# Precipitation Accumulation  Value       None           Instantaneous - Start of Day  N/A        Inches              N/A           PREC          Water year accumulated precipitation                                                               
+# Snow Rain Ratio             Value       None           Day                           N/A        Unitless            N/A           SNRR          Daily or sum of daily snow water equivalent increases as pct of total precip for the same period   
+# Air Temperature Average     Value       None           Day                           N/A        Degrees fahrenheit  N/A           TAVG          Average air temperature - sub-hourly sampling frequency                                            
+# Wind Speed Average          Value       None           Day                           N/A        Miles/hour          N/A           WSPDV         Average wind speed                                                                                 
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily; Date Range: Period of Record
+#
+# As of: Apr 4, 2022 7:18:55 AM GMT-08:00
+#

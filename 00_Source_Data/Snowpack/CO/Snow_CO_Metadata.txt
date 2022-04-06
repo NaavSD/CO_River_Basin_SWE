@@ -1,0 +1,172 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Day
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOTEL 303: Apishapa, CO
+#	SNOTEL 1030: Arapaho Ridge, CO
+#	SNOTEL 322: Bear Lake, CO
+#	SNOTEL 1061: Bear River, CO
+#	SNOTEL 327: Beartown, CO
+#	SNOTEL 1041: Beaver Ck Village, CO
+#	SNOTEL 335: Berthoud Summit, CO
+#	SNOTEL 345: Bison Lake, CO
+#	SNOTEL 1185: Black Mesa, CO
+#	SNOTEL 1161: Black Mountain, CO
+#	SNOTEL 369: Brumley, CO
+#	SNOTEL 938: Buckskin Joe, CO
+#	SNOTEL 913: Buffalo Park, CO
+#	SNOTEL 378: Burro Mountain, CO
+#	SNOTEL 380: Butte, CO
+#	SNOTEL 386: Cascade, CO
+#	SNOTEL 387: Cascade #2, CO
+#	SNOTEL 1101: Chapman Tunnel, CO
+#	SNOTEL 1059: Cochetopa Pass, CO
+#	SNOTEL 408: Columbine, CO
+#	SNOTEL 409: Columbine Pass, CO
+#	SNOTEL 904: Columbus Basin, CO
+#	SNOTEL 412: Copeland Lake, CO
+#	SNOTEL 415: Copper Mountain, CO
+#	SNOLITE 1281: Cottonwood Pass, CO
+#	SNOTEL 426: Crosho, CO
+#	SNOTEL 430: Culebra #2, CO
+#	SNOTEL 431: Cumbres Trestle, CO
+#	SNOTEL 438: Deadman Hill, CO
+#	SNOTEL 457: Dry Lake, CO
+#	SNOTEL 936: Echo Lake, CO
+#	SNOTEL 465: El Diente Peak, CO
+#	SNOTEL 467: Elk River, CO
+#	SNOTEL 1252: Elkhead Divide, CO
+#	SNOTEL 1120: Elliot Ridge, CO
+#	SNOTEL 1186: Fool Creek, CO
+#	SNOTEL 485: Fremont Pass, CO
+#	SNOTEL 1057: Glen Cove, CO
+#	SNOTEL 1058: Grayback, CO
+#	SNOTEL 505: Grizzly Peak, CO
+#	SNOTEL 1102: Hayden Pass, CO
+#	SNOTEL 1187: High Lonesome, CO
+#	SNOTEL 531: Hoosier Pass, CO
+#	SNOTEL 1122: Hourglass Lake, CO
+#	SNOTEL 538: Idarado, CO
+#	SNOTEL 542: Independence Pass, CO
+#	SNOTEL 547: Ivanhoe, CO
+#	SNOTEL 935: Jackwhacker Gulch, CO
+#	SNOTEL 551: Joe Wright, CO
+#	SNOTEL 970: Jones Pass, CO
+#	SNOTEL 556: Kiln, CO
+#	SNOTEL 564: Lake Eldora, CO
+#	SNOTEL 565: Lake Irene, CO
+#	SNOTEL 580: Lily Pond, CO
+#	SNOTEL 586: Lizard Head Pass, CO
+#	SNOTEL 589: Lone Cone, CO
+#	SNOTEL 1123: Long Draw Resv, CO
+#	SNOTEL 940: Lost Dog, CO
+#	SNOTEL 602: Loveland Basin, CO
+#	SNOTEL 607: Lynx Pass, CO
+#	SNOTEL 905: Mancos, CO
+#	SNOTEL 618: Mc Clure Pass, CO
+#	SNOTEL 1040: Mccoy Park, CO
+#	SNOTEL 914: Medano Pass, CO
+#	SNOTEL 622: Mesa Lakes, CO
+#	SNOTEL 937: Michigan Creek, CO
+#	SNOTEL 624: Middle Creek, CO
+#	SNOTEL 1014: Middle Fork Camp, CO
+#	SNOTEL 629: Mineral Creek, CO
+#	SNOTEL 632: Molas Lake, CO
+#	SNOTEL 1124: Moon Pass, CO
+#	SNOTEL 658: Nast Lake, CO
+#	SNOTEL 1031: Never Summer, CO
+#	SNOTEL 663: Niwot, CO
+#	SNOTEL 669: North Lost Trail, CO
+#	SNOTEL 675: Overland Res., CO
+#	SNOTEL 680: Park Cone, CO
+#	SNOTEL 682: Park Reservoir, CO
+#	SNOTEL 688: Phantom Valley, CO
+#	SNOTEL 701: Porphyry Creek, CO
+#	SNOTEL 709: Rabbit Ears, CO
+#	SNOTEL 1032: Rawah, CO
+#	SNOTEL 713: Red Mountain Pass, CO
+#	SNOTEL 717: Ripple Creek, CO
+#	SNOTEL 718: Roach, CO
+#	SNOTEL 939: Rough And Tumble, CO
+#	SNOTEL 1100: Saint Elmo, CO
+#	SNOTEL 1128: Sargents Mesa, CO
+#	SNOTEL 1251: Sawtooth, CO
+#	SNOTEL 737: Schofield Pass, CO
+#	SNOTEL 739: Scotch Creek, CO
+#	SNOTEL 1060: Sharkstooth, CO
+#	SNOTEL 762: Slumgullion, CO
+#	SNOTEL 773: South Colony, CO
+#	SNOTEL 780: Spud Mountain, CO
+#	SNOTEL 793: Stillwater Creek, CO
+#	SNOTEL 797: Stump Lakes, CO
+#	SNOTEL 802: Summit Ranch, CO
+#	SNOTEL 825: Tower, CO
+#	SNOTEL 827: Trapper Lake, CO
+#	SNOTEL 829: Trinchera, CO
+#	SNOTEL 838: University Camp, CO
+#	SNOTEL 839: Upper Rio Grande, CO
+#	SNOTEL 840: Upper San Juan, CO
+#	SNOTEL 1141: Upper Taylor, CO
+#	SNOTEL 1005: Ute Creek, CO
+#	SNOTEL 842: Vail Mountain, CO
+#	SNOTEL 843: Vallecito, CO
+#	SNOTEL 1188: Wager Gulch, CO
+#	SNOTEL 1160: Weminuche Creek, CO
+#	SNOTEL 857: Whiskey Ck, CO
+#	SNOTEL 1042: Wild Basin, CO
+#	SNOTEL 869: Willow Creek Pass, CO
+#	SNOTEL 870: Willow Park, CO
+#	SNOTEL 874: Wolf Creek Summit, CO
+#	SNOTEL 1033: Zirkel, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type  Function Type  Function Duration             Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value       None           Instantaneous - Start of Day  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Daily; Date Range: Period of Record
+#
+# As of: Apr 4, 2022 12:14:32 PM GMT-08:00
+#
