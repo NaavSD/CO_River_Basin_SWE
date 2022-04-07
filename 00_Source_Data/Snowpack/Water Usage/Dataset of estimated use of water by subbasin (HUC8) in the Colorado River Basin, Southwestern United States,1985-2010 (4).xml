@@ -1,0 +1,2113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Tamara Ivahnenko</origin>
+        <origin>Molly A. Maupin</origin>
+        <pubdate>2018</pubdate>
+        <title>Dataset of Estimated Use of Water by Subbasin (HUC8) in the Colorado River Basin, Southwestern United States,1985-2010</title>
+        <geoform>A series of tab-delimited text file and an Excel file with multiple worksheets</geoform>
+        <pubinfo>
+          <pubplace>Denver, CO</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>https://doi.org/10.5066/F7P84B5G</onlink>
+        <lworkcit>
+          <citeinfo>
+            <origin>Molly A. Maupin</origin>
+            <origin>Tamara Ivahnenko</origin>
+            <origin>Brenton Bruce</origin>
+            <pubdate>2018</pubdate>
+            <title>Estimates of water use and trends in the Colorado River Basin, southwestern United States, 1985-2010</title>
+            <geoform>USGS Scientific Investigations Report</geoform>
+            <pubinfo>
+              <pubplace>Tacoma, WA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The Omnibus Public Land Management Act of 2009 (Public Law 111-11) was passed into law on March 30, 2009. Sub-title F of the law, also known as the SECURE (Science and Engineering to Comprehensively Understand and Responsibly Enhance) Water Act, calls for the establishment of a “national water availability and use assessment program” in the U.S. Geological Survey (USGS). The recommendation for a national assessment of the available water resources was driven by the lack of such an assessment since 1978. In fulfillment of the Act, the USGS developed the National Water Census (NWC), under the auspices of the USGS Water Availability and Use Program, and as part of that activity, among others, collected water withdrawal and wastewater return data, including instream use at hydroelectric powerplants (water use) for purposes of expanding upon national datasets and providing these data to assist in hydrologic studies of the Colorado River Basin. The NWC uses regional geographic studies, of which the Colorado River Basin was one of three pilot study areas, and topical-themed studies that are designed to improve the understanding of resources such as streamflow at non-streamgaged sites, ecological flows, groundwater/surface-water interactions, and effects of snow sublimation on timing and quantity of runoff.  These datasets present instream and offstream water use estimates in 5 year intervals from 1985 to 2010 which are aggregated to the 8-digit (subbasin) hydrologic unit level for the Colorado River Basin.  
+
+These digital  data accompany Maupin, M.A., Ivahnenko T. and Bruce, B., 2018,  Estimates of water use and trends in the Colorado River Basin, southwestern United States, 1985-2010: U.S.Geological Survey Scientific Investigations Report 2018-5049, 61 p., https://doi.org/10.3133/sir20185049 .</abstract>
+      <purpose>The Colorado River Basin (CRB) was selected as a Focus Area Study in 2011 by the U.S. Geological Survey (USGS) as part of the USGS National Water Census. The National Water Census is a USGS research program that focuses on national water availability and use and then develops new water accounting tools and assesses water availability at both the regional and national scales. One of the water management needs that the CRB study addressed, and that was identified by stakeholder groups from the CRB, was to provide a more complete set of data for water use categories, including consumptive use and to collaborate with other water use providers to improve the integration of other state, federal and local water use and water-supply data and to provide the compiled water-use information to basin users. This water-use information was also used in the hydrologic modeling and groundwater assessment components of the study.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19850101</begdate>
+          <enddate>20101231</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-115.706098</westbc>
+        <eastbc>-105.62641</eastbc>
+        <northbc>43.45218</northbc>
+        <southbc>31.332252</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>Water Science Field Team Keywords</themekt>
+        <themekey>water use</themekey>
+        <themekey>water withdrawals</themekey>
+        <themekey>withdrawals</themekey>
+      </theme>
+      <theme>
+        <themekt>USGS Metadata Identifier</themekt>
+        <themekey>USGS:5abbf89fe4b081f61abd5bee</themekey>
+      </theme>
+      <place>
+        <placekt>Geographic Names Information System</placekt>
+        <placekey>Colorado River</placekey>
+        <placekey>Colorado River Basin</placekey>
+        <placekey>Arizona</placekey>
+        <placekey>California</placekey>
+        <placekey>Colorado</placekey>
+        <placekey>Nevada</placekey>
+        <placekey>New Mexico</placekey>
+        <placekey>Utah</placekey>
+        <placekey>Wyoming</placekey>
+      </place>
+    </keywords>
+    <accconst>none</accconst>
+    <useconst>none</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Tamara Ivahnenko</cntper>
+          <cntorg>Southwest Region</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>201 9th Street East</address>
+          <city>Pueblo</city>
+          <state>CO</state>
+          <postal>81001</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>719-562-2848</cntvoice>
+        <cntemail>ivahnenk@usgs.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>To be added</browsen>
+      <browsed>Thumbnail image of subregions (HUC4) in the Colorado River Basin</browsed>
+      <browset>JPG</browset>
+    </browse>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>No formal attribute accuracy tests were conducted</attraccr>
+    </attracc>
+    <logic>No formal logical accuracy tests were conducted</logic>
+    <complete>Dataset is considered complete for the information presented, as described in the abstract. Users are advised to read the rest of the metadata record carefully for additional details.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No formal positional accuracy tests were conducted</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No formal positional accuracy tests were conducted</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Solley, Wayne B., Merk, Charles F. and Pierce, Robert R.</origin>
+            <pubdate>1988</pubdate>
+            <title>Water Use Data for the Nation</title>
+            <geoform>Tabular</geoform>
+            <pubinfo>
+              <pubplace>Denver, CO</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://waterdata.usgs.gov/nwis/water_use/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>County-level water use data, by category</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19850101</begdate>
+              <enddate>19851231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>1985 County-level data</srccitea>
+        <srccontr>County-level water use data is the basis for the distribution of the HUC8 data.  County-level data is also the quality control for the HUC8 data.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Solley, Wayne B., Pierce, Robert R. and Perlman, Howard A.</origin>
+            <pubdate>1993</pubdate>
+            <title>Water Use Data for the Nation</title>
+            <geoform>Tabular</geoform>
+            <pubinfo>
+              <pubplace>Denver, CO</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://waterdata.usgs.gov/nwis/water_use/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>County-level water use data, by category</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19900101</begdate>
+              <enddate>19901231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>1990 County-level data</srccitea>
+        <srccontr>County-level water use data is the basis for the distribution of the HUC8 data.  County-level data is also the quality control for the HUC8 data.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Solley, Wayne B., Pierce, Robert R. and Perlman, Howard A.</origin>
+            <pubdate>1998</pubdate>
+            <title>Water Use Data for the Nation</title>
+            <geoform>Tabular</geoform>
+            <pubinfo>
+              <pubplace>Denver, CO</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://waterdata.usgs.gov/nwis/water_use/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>County-level water use data, by category</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19900101</begdate>
+              <enddate>19901231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>1995 County-level data</srccitea>
+        <srccontr>County-level water use data is the basis for the distribution of the HUC8 data.  County-level data is also the quality control for the HUC8 data.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Hutson, Susan S., Barber, Nancy L., Kenny, Joan F., Linsey, Kristin S., Lumia, Deborah S., and Maupin, Molly A.</origin>
+            <pubdate>2004</pubdate>
+            <title>Water Use Data for the Nation</title>
+            <geoform>Tabular</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://waterdata.usgs.gov/nwis/water_use/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>County-level water use data, by category</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20000101</begdate>
+              <enddate>20001231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>2000 County-level data</srccitea>
+        <srccontr>County-level water use data is the basis for the distribution of the HUC8 data.  County-level data is also the quality control for the HUC8 data.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Kenny, Joan F.,  Barber, Nancy L., Hutson, Susan S., Linsey, Kristin S., Lovelace, John K., and Maupin, Molly A.</origin>
+            <pubdate>2009</pubdate>
+            <title>Water Use Data for the Nation</title>
+            <geoform>Tabular</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://waterdata.usgs.gov/nwis/water_use/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>County-level water use data, by category</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20050101</begdate>
+              <enddate>20051231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>2005 County-level data</srccitea>
+        <srccontr>County-level water use data is the basis for the distribution of the HUC8 data.  County-level data is also the quality control for the HUC8 data.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Kenny, Joan F.,  Barber, Nancy L., Hutson, Susan S., Linsey, Kristin S., Lovelace, John K., and Maupin, Molly A.</origin>
+            <pubdate>2014</pubdate>
+            <title>Water Use Data for the Nation</title>
+            <geoform>Tabular</geoform>
+            <pubinfo>
+              <pubplace>Reston, VA</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+            <onlink>https://waterdata.usgs.gov/nwis/water_use/</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>County-level water use data, by category</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>20100101</begdate>
+              <enddate>20101231</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>Ground condition</srccurr>
+        </srctime>
+        <srccitea>2010 County-level data</srccitea>
+        <srccontr>County-level water use data is the basis for the distribution of the HUC8 data.  County-level data is also the quality control for the HUC8 data.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Water withdrawal and use data was compiled in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming for the years 1985, 1990, 1995, 2000, 2005 and 2010 at the subbasin (HUC8) level by water use specialists in those states.  Data was compiled based on the guidelines provided by the (now) National Water-Use Science Project.  Guidelines for preparing water use estimates for the years 2000, 2005 and 2015 can be found at the following URL: https://water.usgs.gov/watuse/50years.html . Guidelines for data collected prior to 2000 are internal U.S. Geological Survey documents.  Water withdrawal and use data at the county-level can be found through the following URL at https://waterdata.usgs.gov/nwis/wu .  The county-level data relates to the subbasin data, in that, after the year 2000, the subbasin data is based on refined and modified compiled county-level data.  Prior to 2000, compilation of county and HUC8 level data were required elements.  As part of the compilation process, water-use data is reviewed by a Regional Water Use Specialists prior to approval and publication.</procdesc>
+        <procdate>2017</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>Irrigation consumptive use was derived using the actual evapotranspiration (ETa), which represents the actual growing conditions and was computed from satellite thermal-band data and the Operational Simplified Surface Energy Balance (SSEBop) model (Senay and others, 2013, 2016; Singh and others, 2014).  ETa data were produced for the entire Colorado River Basin at monthly scales, and annual totals were summarized from this source using several digital data sources to filter out and select only irrigated lands. Digital data used to filter out irrigated lands included national landcover data (for example, National Land Cover Database [NLCD 2011], Homer and others, 2015; Cropland Data Layer [CDL], Boryan and others, 2011), field-verified digital aerial photography maps (Arizona), data from the Colorado Decision Support System (Colorado), or published geospatial datasets (for example, Buto and others, 2014). The ETa values, originally expressed as a depth of water (in millimeters) within the filtered spatial area of irrigated lands (thousand acres), were converted to a volume (thousand acre-feet). 
+Senay, G.B., Bohms, Stefanie, Singh, R.K., Gowda, P.H., Velpuri, N.M., Alemu, Henok, and Verdin, J.P., 2013, Operational evapotranspiration modeling using remote sensing and weather datasets—A new parameterization for the SSEB ET approach: Journal of the American Water Resources Association, v. 49, no. 3, p. 577–591. 
+Senay, G.B., Friedrichs, M., Singh, R.K., and Velpuri, N.M., 2016, Evaluating Landsat 8 evapotranspiration for water use mapping in the Colorado River Basin: Remote Sensing Environmental, v. 185, p. 171–185, accessed October 2, 2015 at  http://dx.doi.org/10.1016/j.rse.2015.12.043. 
+Singh, R.K., Gabriel, B,. Senay, Velpuri, N.M., Bohms, S., Scott, R.L., and Verdin, J.P., 2014, Actual evapotranspiration (water use) assessment of the Colorado River Basin at the Landsat resolution using the Operational Simplified Surface Energy Balance model: Remote Sensing, v. 6, p. 233–256. 
+Homer, C.G., Dewitz, J.A., Yang, L., Jin, S., Danielson, P., Xian, G., Coulston, J., Herold, N.D., Wickham, J.D., and Megown, K., 2015, Completion of the 2011 National Land Cover Database for the conterminous United States-Representing a decade of land cover change information. Photogrammetric Engineering and Remote Sensing, v. 81, no. 5, p. 345-354. 
+Boryan, Claire, Zhengwei, Yang, Mueller, Rick, and Craig, Mike, 2011, Monitoring US agriculture: the US Department of Agriculture, National Agricultural Statistics Service, Cropland Data Layer Program, Geocarto International, Vol. 26, Issue 5, pp. 341-358, accessed October 30, 2017 at http://www.tandfonline.com/doi/abs/10.1080/10106049.2011.562309. 
+Buto, S.G., Gold, B.L., and Jones, K.A., 2014, Development of a regionally consistent geospatial dataset of agricultural lands in the Upper Colorado River Basin, 2007–10: U.S. Geological Survey Scientific Investigations Report 2014-5039, 20 p., https://dx.doi.org/10.3133/sir20145039.</procdesc>
+        <procdate>2017</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.0197541024</latres>
+        <longres>0.0197541024</longres>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North_American_Datum_1983</horizdn>
+        <ellips>GRS_1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_TotPop.csv and CRB_HUC819852010.xls  Spreadsheet 'Total _Population'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, total population information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TP-TotPop</attrlabl>
+        <attrdef>Total population of an area, in thousands</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1898.198</rdommax>
+            <attrunit>Count of people, in thousands</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_PublicSupply.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Public Supply'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, public supply withdrawal and delivery information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-TOPop</attrlabl>
+        <attrdef>Public Supply, total population served, in thousands</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1825.790</rdommax>
+            <attrunit>count of people, in thousands</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-WGWTo</attrlabl>
+        <attrdef>Public Supply, total groundwater withdrawals, fresh and saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>167.61</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-WSWTo</attrlabl>
+        <attrdef>Public Supply, total surface-water withdrawals, fresh and saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>429.70</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-WTotl</attrlabl>
+        <attrdef>Public Supply, total withdrawals, fresh and saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>508.71</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-DelDO</attrlabl>
+        <attrdef>Public Supply, deliveries from public supply to domestic, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>325.42</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-DelCO</attrlabl>
+        <attrdef>Public Supply, deliveries from public supply to commercial, in thousand acre-feet (TAF). Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>103.84</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-DelIN</attrlabl>
+        <attrdef>Public Supply, deliveries from public supply to industrial, in thousand acre-feet (TAF). Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>70.76</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-DelPT</attrlabl>
+        <attrdef>Public Supply, deliveries from public supply to thermoelectric, in thousand acre-feet (TAF). Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>3.04</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PS-DelTO</attrlabl>
+        <attrdef>Public Supply, deliveries from public supply, total, in thousand acre-feet (TAF). Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>463.88</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_SS_Domestic.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'SS_Domestic'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, self-supply domestic withdrawals and water use compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-SSPop</attrlabl>
+        <attrdef>Domestic, population that is self-supplied, in thousands</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>94.604</rdommax>
+            <attrunit>count of people, in thousands</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-WGWTo</attrlabl>
+        <attrdef>Domestic, self-supplied groundwater withdrawals, total, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>21.37</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-WSWTo</attrlabl>
+        <attrdef>Domestic, self-supplied surface-water withdrawals, total, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1.52</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-WTotl</attrlabl>
+        <attrdef>Domestic, self-supplied withdrawals, total, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>21.37</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-SSPCp</attrlabl>
+        <attrdef>Domestic, self-supply per capita, in gallons per person per day (GPCD)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2500.00</rdommax>
+            <attrunit>in gallons per person per day (GPCD)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-PSDel</attrlabl>
+        <attrdef>Domestic, deliveries from public supply to domestic, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>325.42</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-WDelv</attrlabl>
+        <attrdef>Domestic, total deliveries to domestic, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>346.78</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>DO-ToPCp</attrlabl>
+        <attrdef>Domestic, total per capita, in gallons per person per day (GPCD)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2500.00</rdommax>
+            <attrunit>in gallons per person per day (GPCD)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_Commercial.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Commercial'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, commercial withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CO-WGWFr</attrlabl>
+        <attrdef>Commercial, self-supplied groundwater withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10.13</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CO-WSWFr</attrlabl>
+        <attrdef>Commercial, self-supplied surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8.40</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CO-WFrTotl</attrlabl>
+        <attrdef>Commercial, self-supplied total withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>10.13</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_SS_Industrial.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'SS_Industrial'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, self-supply industrial withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WGWFr</attrlabl>
+        <attrdef>Industrial, self-supplied groundwater withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>17.85</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WGWSa</attrlabl>
+        <attrdef>Industrial, self-supplied groundwater withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>9.35</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WGWTo</attrlabl>
+        <attrdef>Industrial, self-supplied groundwater withdrawals, total, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>17.85</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WSWFr</attrlabl>
+        <attrdef>Industrial, self-supplied surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8.32</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WSWSa</attrlabl>
+        <attrdef>Industrial, self-supplied surface-water withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WSWTo</attrlabl>
+        <attrdef>Industrial, self-supplied surface-water withdrawals, total, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8.32</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WFrTo</attrlabl>
+        <attrdef>Industrial, self-supplied total withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>17.85</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WSaTo</attrlabl>
+        <attrdef>Industrial, self-supplied total withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>9.35</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IN-WTotl</attrlabl>
+        <attrdef>Industrial, self-supplied total withdrawals, total (fresh and saline), in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>17.84</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_Irrigation.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Irrigation'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, total irrigation (crop and golf) withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-WGWFr</attrlabl>
+        <attrdef>Irrigation, groundwater withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>530.91</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-WSWFr</attrlabl>
+        <attrdef>Irrigation, surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1722.87</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-WFrTo</attrlabl>
+        <attrdef>Irrigation, total withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>1728.66</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-CUsFr</attrlabl>
+        <attrdef>Irrigation, consumptive use, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>653.00</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-CLoss</attrlabl>
+        <attrdef>Irrigation, conveyance losses, fresh, in thousand acre-feet (TAF). Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>417.16</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-IrSpr</attrlabl>
+        <attrdef>Sprinkler irrigation, in thousand acres</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>70.15</rdommax>
+            <attrunit>Thousand acres</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-IrMic</attrlabl>
+        <attrdef>Microirrigation, in thousand acres</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>18.33</rdommax>
+            <attrunit>Thousand acres</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-IrSur</attrlabl>
+        <attrdef>Surface irrrigtion, in thousand acres</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>163.23</rdommax>
+            <attrunit>Thousand acres</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-IrTot</attrlabl>
+        <attrdef>Irrrigtion total acres, in thousand acres</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>174.21</rdommax>
+            <attrunit>Thousand acres</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IR-RecWW</attrlabl>
+        <attrdef>Irrigation, reclaimed wastewater, in thousand acre-feet (TAF). Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>165.73</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SSEBop_CU</attrlabl>
+        <attrdef>Consumptive use as determined through evapotranspiration using the Operational Simplified Surface Energy Balance model, in thousand acre-feet (TAF). Double dashes '--' indicates data are not available. A reference for this data can be found at the following URL:  https://www.sciencedirect.com/science/article/pii/S0034425715302650  .</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>461.35</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_Total_Thermoelectric.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Total_Thermoelectric'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, total thermoelectric (once-through, recirculating and nuclear) withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WGWFr</attrlabl>
+        <attrdef>Thermoelectric, groundwater withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>19.48</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WGWSa</attrlabl>
+        <attrdef>Thermoelectric, groundwater withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>0</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WGWTo</attrlabl>
+        <attrdef>Thermoelectric, groundwater withdrawals, total, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>19.48</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WSWFr</attrlabl>
+        <attrdef>Thermoelectric, surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>66.76</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WSWSa</attrlabl>
+        <attrdef>Thermoelectric, surface-water withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5.17</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WSWTo</attrlabl>
+        <attrdef>Thermoelectric, surface-water withdrawals, total, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>66.76</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WFrTo</attrlabl>
+        <attrdef>Thermoelectric, total withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>66.76</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WSaTo</attrlabl>
+        <attrdef>Thermoelectric, total withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5.17</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-WTotl</attrlabl>
+        <attrdef>Thermoelectric, total withdrawals, total (fresh and saline) and deliveries from public supply, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>66.76</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-CUsFr</attrlabl>
+        <attrdef>Thermoelectric, consumptive use, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>84.44</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-CUsSa</attrlabl>
+        <attrdef>Thermoelectric, consumptive use, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>5.17</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-CUTot</attrlabl>
+        <attrdef>Thermoelectric, total consumptive use, fresh and saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>84.44</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-Power</attrlabl>
+        <attrdef>Thermoelectric, total power generated, in gigawatt hours (GWh)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>38653.02</rdommax>
+            <attrunit>gigawatt hours (GWh)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-RecWW</attrlabl>
+        <attrdef>Thermoelectric, reclaimed wastewater, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>75.41</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PT-Facil</attrlabl>
+        <attrdef>Thermoelectric, number of facilities. Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>11</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_Mining.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Mining'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, mining withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  tThe 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WGWFr</attrlabl>
+        <attrdef>Mining, groundwater withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40.23</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WGWSa</attrlabl>
+        <attrdef>Mining, groundwater withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>27.80</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WGWTo</attrlabl>
+        <attrdef>Mining, total groundwater withdrawals, fresh and saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40.23</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WSWFr</attrlabl>
+        <attrdef>Mining, surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>13.37</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WSWSa</attrlabl>
+        <attrdef>Mining, surface-water withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2.58</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WSWTo</attrlabl>
+        <attrdef>Mining, surface-water withdrawals, total, in thousand acre-feet (TAF).</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>13.37</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WFrTo</attrlabl>
+        <attrdef>Mining, total withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40.23</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WSaTo</attrlabl>
+        <attrdef>Mining, water withdrawals, total, fresh and saline, in thousand acre-feet (TAF).Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>27.80</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MI-WTotl</attrlabl>
+        <attrdef>Mining, total withdrawals, fresh and saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>40.23</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_Livestock.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Livestock'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, Livestock withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.  For the dataset years 1985 to 1995 the livestock category of water use included water use data for aquaculture.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LS-WGWFr</attrlabl>
+        <attrdef>Livestock, groundwater withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>13.96</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LS-WSWFr</attrlabl>
+        <attrdef>Livestock, surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>35.83</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LS-WSWSa</attrlabl>
+        <attrdef>Livestock, surface-water withdrawals, saline, in thousand acre-feet (TAF). Saline water contains 1000 milligrams per liter or more of dissolved solids.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>6.83</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LS-WTotl</attrlabl>
+        <attrdef>Livestock, total withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>35.89</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_Aquaculture.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Aquaculture'</enttypl>
+        <enttypd>2000 to 2010, in 5-year intervals, aquaculture withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AQ-WGWFr</attrlabl>
+        <attrdef>Aquaculture, groundwater withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>36.04</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AQ-WSWFr</attrlabl>
+        <attrdef>Aquaculture, surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>12.91</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>AQ-WTotl</attrlabl>
+        <attrdef>Aquaculture, total withdrawals, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>41.30</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010Hydro_Power.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Hydroelectric_Power'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, hydroelectric power withdrawal and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-InUse</attrlabl>
+        <attrdef>Hydroelectric power, instream water use, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25510.96</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-OffFr</attrlabl>
+        <attrdef>Hydroelectric power, offstream surface-water withdrawals, fresh, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>498.55</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-ToUse</attrlabl>
+        <attrdef>Hydroelectric power, total water withdrawals, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25510.96</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-InPow</attrlabl>
+        <attrdef>Hydroelectric power, power generated by instream use, in gigawatt hours (GWh)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>7663.58</rdommax>
+            <attrunit>gigawatt hours (GWh)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-OfPow</attrlabl>
+        <attrdef>Hydroelectric power, power generated by offstream use, in gigawatt hours (GWh)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>33.59</rdommax>
+            <attrunit>gigawatt hours (GWh)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-ToPow</attrlabl>
+        <attrdef>Hydroelectric power, total power generated, in gigawatt hours (GWh)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>7663.58</rdommax>
+            <attrunit>gigawatt hours (GWh)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-InFac</attrlabl>
+        <attrdef>Hydroelectric power, number of instream facilities. Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-OfFac</attrlabl>
+        <attrdef>Hydroelectric power, number of offstream facilities. Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>2</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HY-ToFac</attrlabl>
+        <attrdef>Hydroelectric power, total number of facilities. Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>8</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>CRB_HUC8_TAF_19852010_Wastewater.csv and CRB_HUC8_TAF_19852010.xls  Spreadsheet 'Wastewater'</enttypl>
+        <enttypd>1985 to 2010, in 5-year intervals, municipal and industrial wastewater return flows and water use information compiled for the Colorado River Basin at the 8-digit (subbasin) hydrologic unit level.</enttypd>
+        <enttypds>U.S. Geological Survey water-use project personnel in Arizona, California, Colorado, Nevada, New Mexico, Utah and Wyoming.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>STATECODE</attrlabl>
+        <attrdef>A 2 digit Federal Information Processing Standard (FIPS) code identifying United States states and certain other associated areas.</attrdef>
+        <attrdefs>United States Census Bureau</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Federal Information Processing Standard (FIPS 5-2) State Code</codesetn>
+            <codesets>https://www.census.gov/geo/reference/ansi_statetables.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC4CODE</attrlabl>
+        <attrdef>4-digit (subregion) hydrologic unit code</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUC8CODE</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code; there is a change in the dataset for 2010.  The 14010006 8-digit hydrologic unit was dropped from the Watershed Boundary Dataset in 2010; 14010006 was merged with HUC8 14010005.</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>HUCNAME</attrlabl>
+        <attrdef>8-digit (subbasin) hydrologic unit code name</attrdef>
+        <attrdefs>Watershed Boundary Dataset</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>Hydrologic Unit Codes</codesetn>
+            <codesets>https://nhd.usgs.gov/wbd.html</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Year</attrlabl>
+        <attrdef>A range of calendar years beginning in 1985 to 2010 in 5-year increments.  Years for which data were collected are 1985, 1990, 1995, 2000, 2005 and 2010.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>1985</rdommin>
+            <rdommax>2010</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WW-PuRet</attrlabl>
+        <attrdef>Wastewater, total return flow, in thousand acre-feet (TAF)</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>450.74</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WW-PuFac</attrlabl>
+        <attrdef>Wastewater, number of facilities.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>25</rdommax>
+          </rdom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>WW-RecWW</attrlabl>
+        <attrdef>Wastewater, reclaimed wastewater released or sold by facilites for another use, in thousand acre-feet (TAF).  Double dashes '--' indicates data are not available.</attrdef>
+        <attrdefs>Producer defined</attrdefs>
+        <attrdomv>
+          <rdom>
+            <rdommin>0</rdommin>
+            <rdommax>204.96</rdommax>
+            <attrunit>thousand acre-feet (TAF)</attrunit>
+          </rdom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>ScienceBase</cntper>
+          <cntorg>U.S. Geological Survey</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Denver Federal Center, Building 810, MS 302</address>
+          <city>Lakewood</city>
+          <state>CO</state>
+          <postal>80228</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>1-888-275-8747</cntvoice>
+        <cntemail>sciencebase@usgs.gov</cntemail>
+      </cntinfo>
+    </distrib>
+    <distliab>Unless otherwise stated, all data, metadata and related materials are considered to satisfy the quality standards relative to the purpose for which the data were collected.  Although these data and associated metadata have been reviewed for accuracy and completeness and approved for release by the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute such warranty.</distliab>
+    <techpreq>These data are available in both a tab-delimited .csv file format and as a Microsoft Excel 2010 (.xlsx) file.  The user must have software capable of reading the Microsoft Excel 2010 file format to use the .xlsx file.</techpreq>
+  </distinfo>
+  <metainfo>
+    <metd>20200814</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Tamara Ivahnenko</cntper>
+          <cntorg>Southwest Region</cntorg>
+        </cntperp>
+        <cntpos>Hydrologist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>201 9th Street East</address>
+          <city>Pueblo</city>
+          <state>CO</state>
+          <postal>81001</postal>
+          <country>United States</country>
+        </cntaddr>
+        <cntvoice>719-562-2848</cntvoice>
+        <cntemail>ivahnenk@usgs.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
