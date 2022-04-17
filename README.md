@@ -16,6 +16,8 @@
 <a href="https://www.climate.gov/news-features/features/drought-rio-grande">Climate.Gov</a></b></figcaption>
 </figure>
 
+---
+
 The southwest region is dense in both population and agricultural land. The water from the region's basins supports
 upwards of 92% of the regions agriculture (USDA). This accounts for nearly 79% of all water withdrawals in 
 the region. In particular, California contains 70% of the regional crop area valued at $30.4 B in 2012. With the
@@ -29,6 +31,8 @@ Reclaimation, 2016).
 <img src="images/CRB_areamap.jpg" alt="Colorado River Basin Extent" height="600">
 <figcaption><b>Colorado River Basin Extent - USGS</b></figcaption>
 </figure>
+
+---
 
 The Colorado River Basin (pictured above) is one of the larger river basins in the southwest region. The 
 Colorado River Basin (CRB) supports the water needs of seven basin states, California among them, along with supplying an
