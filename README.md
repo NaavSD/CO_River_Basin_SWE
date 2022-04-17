@@ -17,11 +17,11 @@
 </figure>
 
 The southwest region is dense in both population and agricultural land. The water from the region's basins supports
-upwards of 92% of the regions agriculture (USDA). This accounts for nearly 79% of all water withdrawals in 
+upwards of 92% of the region's agriculture (USDA). This accounts for nearly 79% of all water withdrawals in 
 the region. In particular, California contains 70% of the regional crop area valued at $30.4 B in 2012. With the
 region's agriculture, 35 to 40 billion people, and a US delivery obligation to Mexico depending on water resources
 from the region's basins, proper management and documentation of the region's water resources is essential (Bureau of 
-Reclaimation, 2016).
+Reclamation, 2016).
 
 <figure style="text-align: center;">
 <figcaption><b>Colorado River Basin Extent - USGS</b></figcaption>
@@ -70,7 +70,7 @@ The USDA's water supply data primarily consists of reservoir volume readings. Ea
 water level and volume each day from 1966 to present. Data from this set was aggregated by summation into a total water
 volume for the CRB. We expect inaccuracies to come from in-stream volumes of water between dams. We also expect that 
 inaccuracies may result from the construction of new dams within the data series. The aforementioned granular approach
-by downstream dam would alleviate some inaccuracies resulting from this approach and is an method of interest for future
+by downstream dam would alleviate some inaccuracies resulting from this approach and is a method of interest in future
 modeling.
 
 
@@ -79,10 +79,10 @@ modeling.
 The USGS's water withdrawals data aggregates withdrawals with into a combination of fresh, saline, ground and surface 
 water withdrawals every 5 years from 1985. This dataset also includes non-consumptive water uses and water uses that 
 allow for flow-through. Here we aggregated water usage from assumed non-flow-through categories. Values in the dataset
-were recorded in thousand feet acres and were converted to decameters cubed (dam<sub>3</sub>) to match the water supply 
+were recorded in thousand feet acres and were converted to deca-meters cubed (dam<sub>3</sub>) to match the water supply 
 data. The time between data recordings may cause some inaccuracy in classification. However, we assume these 
 inaccuracies are minute given the minor variation in water withdrawals within the collection of samples over the large 
-period of time they were collected. We performed a backfill on the withdrawal data to each previous sample to fill out 
+period of time they were collected. We performed a back-fill on the withdrawal data to each previous sample to fill out 
 the dataset on this assumption. More frequent monitoring or collection of water withdrawal data could result in more 
 accurate predictions.
 
@@ -99,7 +99,7 @@ A dummy model was used to compare a simple logistic regression to the data. Foll
 search was used to compare the logistic model with nearest neighbors (KNN) and random forest models. The resulting best 
 model between the three was then compared to a TimeSeriesForest (TSF) model (Faouzi and Janati, 2020). We concluded that 
 while the random forest model performed best on accuracy, it did not account for the seasonality of the time series data
-and thatthe TSF model was better suited to the application.
+and that the TSF model was better suited to the application.
 
 The initial logistics model was conducted on both binary and trinary targets. The binary targets set for Glenn Canyon's
 operating depth such that the outcome was either at or above operating depth or below operating depth. We felt that the
