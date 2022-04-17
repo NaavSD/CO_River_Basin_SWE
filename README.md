@@ -11,12 +11,10 @@
 <br>
 
 <figure style="text-align: center;">
-<img src="images/PrecipTemp_720-l.jpg" alt="Projected Precipitation for the Southwest Region">
 <figcaption><b>Future Precipitation - 
 <a href="https://www.climate.gov/news-features/features/drought-rio-grande">Climate.Gov</a></b></figcaption>
+<img src="images/PrecipTemp_720-l.jpg" alt="Projected Precipitation for the Southwest Region">
 </figure>
-
----
 
 The southwest region is dense in both population and agricultural land. The water from the region's basins supports
 upwards of 92% of the regions agriculture (USDA). This accounts for nearly 79% of all water withdrawals in 
@@ -25,21 +23,16 @@ region's agriculture, 35 to 40 billion people, and a US delivery obligation to M
 from the region's basins, proper management and documentation of the region's water resources is essential (Bureau of 
 Reclaimation, 2016).
 
-
-
 <figure style="text-align: center;">
-<img src="images/CRB_areamap.jpg" alt="Colorado River Basin Extent" height="600">
 <figcaption><b>Colorado River Basin Extent - USGS</b></figcaption>
+<img src="images/CRB_areamap.jpg" alt="Colorado River Basin Extent" height="600">
 </figure>
-
----
 
 The Colorado River Basin (pictured above) is one of the larger river basins in the southwest region. The 
 Colorado River Basin (CRB) supports the water needs of seven basin states, California among them, along with supplying an
 amount to Mexico determined by a 1944 treaty with Mexico. With expected rise in water demand and projected water
 supply decreasing, we investigated predicted modeling as an answer to planning needs for the CRB. These models provide
 actionable predictions for management at dam level operations.
-
 
 <figure style="text-align: center;">
 <figcaption><b>Water Storage in CRB (dam<sup>3</sup>)</b><br></figcaption>
