@@ -133,3 +133,6 @@ dmypy.json
 *.aprx
 *.tbx
 *.gdb
+
+# PyCharm files
+.idea/
