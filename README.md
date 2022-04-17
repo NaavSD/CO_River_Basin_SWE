@@ -10,13 +10,11 @@
 
 <br>
 
-<center>
-<figure>
+<figure style="text-align: center;">
 <img src="images/PrecipTemp_720-l.jpg" alt="Projected Precipitation for the Southwest Region">
-<figcaption align="center"><b>Future Precipitation - 
+<figcaption><b>Future Precipitation - 
 <a href="https://www.climate.gov/news-features/features/drought-rio-grande">Climate.Gov</a></b></figcaption>
 </figure>
-</center>
 
 The southwest region is dense in both population and agricultural land. The water from the region's basins supports
 upwards of 92% of the regions agriculture (USDA). This accounts for nearly 79% of all water withdrawals in 
@@ -26,12 +24,11 @@ from the region's basins, proper management and documentation of the region's wa
 Reclaimation, 2016).
 
 
-<center>
-<figure>
+
+<figure style="text-align: center;">
 <img src="images/CRB_areamap.jpg" alt="Colorado River Basin Extent" height="600">
-<figcaption><b>Colorado River Basin Extent - USGS</b>
+<figcaption><b>Colorado River Basin Extent - USGS</b></figcaption>
 </figure>
-</center>
 
 The Colorado River Basin (pictured above) is one of the larger river basins in the southwest region. The 
 Colorado River Basin (CRB) supports the water needs of seven basin states, California among them, along with supplying an
@@ -39,12 +36,11 @@ amount to Mexico determined by a 1944 treaty with Mexico. With expected rise in 
 supply decreasing, we investigated predicted modeling as an answer to planning needs for the CRB. These models provide
 actionable predictions for management at dam level operations.
 
-<center>
-<figure>
-<figcaption><b>Water Storage in CRB (dam<sup>3</sup>)</b><br>
+
+<figure style="text-align: center;">
+<figcaption><b>Water Storage in CRB (dam<sup>3</sup>)</b><br></figcaption>
 <img src="images/water_storage_ts.png" alt="CRB Water Storage" width="900">
 </figure>
-</center>
 
 ### Tools for Water Management Agencies
 
@@ -124,7 +120,14 @@ the application. The TSF model performed with an accuracy of 97.2%. We feel that
 facets intrinsic to time series data is worth the minimal loss in accuracy we see between the TSF and random forest
 models in this application.
 
-### Works Cited
+### Appendix
+
+#### Documentation
+
+<a href="https://docs.google.com/presentation/d/12ga7hI2sMFTskA3Yoye9iRho2kdFfZtiFXL372UtFrQ/edit?usp=sharing">[link]</a>
+Presentation
+
+#### Works Cited
 
 <a href="https://www.usbr.gov/climate/secure/docs/2016secure/factsheet/ColoradoRiverBasinFactSheet.pdf">[link]</a>
 RECLAMATION: Managing Water in the West. U.S. Department of the Interior: Bureau of Reclamation. 2016.
