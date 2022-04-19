@@ -6,7 +6,22 @@
 - Images and figures located in /images/
 - PDF files for presentation and reports in /deliverables/
 
-### A General Synopsis of the Southwestern Region's Water Problem
+### Table of Contents
+
+1. [General Synopsis](#a-general-synopsis-of-the-southwestern-regions-water-problem)
+2. [Tools for Water Management](#tools-for-water-management-agencies)
+3. [Data](#data)
+   1. [Snotel](#snotel-data)
+   2. [Water Storage](#water-storage-data)
+   3. [Water Withdrawals](#water-withdrawals-data)
+   4. [Data Processing](#processing)
+4. [Modeling](#modeling)
+   1. [Simple Logistic Model](#model-1-simple-logistic-model)
+   2. [Random Forest Classifier](#model-2-random-forest-classifier)
+   3. [Time Series Forest Classifier](#model-3-time-series-forest-classifier)
+5. [Appendix](#appendix)
+
+## A General Synopsis of the Southwestern Region's Water Problem
 
 <br>
 
@@ -39,7 +54,7 @@ actionable predictions for management at dam level operations.
 <img src="images/water_storage_ts.png" alt="CRB Water Storage" width="900">
 </figure>
 
-### Tools for Water Management Agencies
+## Tools for Water Management Agencies
 
 While all dams have different operating and dead-pool depths based on their engineering, we used Glenn Canyon dam 
 as a model. Each dam can potentially customize similar modeling procedures for their own operating depth requirements.
@@ -48,14 +63,14 @@ By including time series data on Snow Water Equivalence (SWE) from weather stati
 each dam in the basin, we can create a classification model that will predict the functional depth of the water with
 an accuracy of approximately 97%.
 
-### Data
+## Data
 
 Data was collected from U.S. Department of Agriculture's (USDA) 
 <a href='https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/snowpack/'>Snotel</a> and 
 <a href='https://www.nrcs.usda.gov/wps/portal/wcc/home/waterSupply/'>water supply</a> programs. Water withdrawal
 data was collected from the U.S. Geological Survey's (USGS) database.
 
-#### Snotel Data
+### Snotel Data
 
 The USDA's Snotel data includes snow water equivalent measurements throughout the western United States. We clipped the
 original data using a shape file from USGS for the Colorado River Basin (CRB) to extract just stations within the CRB.
@@ -64,17 +79,16 @@ acknowledge that this approach generalizes the value over a large area, but give
 the averaging to be sufficient. We may look into separating stations by downstream dam in a more granular approach to
 this modeling method in the future.
 
-#### Water Supply Data
+### Water Storage Data
 
-The USDA's water supply data primarily consists of reservoir volume readings. Each reservoir in the CRB reports their
+The USDA's water storage data primarily consists of reservoir volume readings. Each reservoir in the CRB reports their
 water level and volume each day from 1966 to present. Data from this set was aggregated by summation into a total water
 volume for the CRB. We expect inaccuracies to come from in-stream volumes of water between dams. We also expect that 
 inaccuracies may result from the construction of new dams within the data series. The aforementioned granular approach
 by downstream dam would alleviate some inaccuracies resulting from this approach and is a method of interest in future
 modeling.
 
-
-#### Water Withdrawals Data
+### Water Withdrawals Data
 
 The USGS's water withdrawals data aggregates withdrawals with into a combination of fresh, saline, ground and surface 
 water withdrawals every 5 years from 1985. This dataset also includes non-consumptive water uses and water uses that 
@@ -86,14 +100,14 @@ period of time they were collected. We performed a back-fill on the withdrawal d
 the dataset on this assumption. More frequent monitoring or collection of water withdrawal data could result in more 
 accurate predictions.
 
-#### Processing
+### Processing
 
 All data was scaled prior to being fed into models to adjust for the differing scales of SWE and water storage values.
 Target variables were calculated using specific operating and dead-pool depths from Glenn Canyon dam as a percentage of
 the total depth of the dam. Two sets of targets were created. A binary operational/non-operational target and a trinary
 target that includes non-flow-through depths for Glenn Canyon dam, or the dead-pool depth.
 
-### Modelling
+## Modeling
 
 A dummy model was used to compare a simple logistic regression to the data. Following the first simple model, a grid
 search was used to compare the logistic model with nearest neighbors (KNN) and random forest models. The resulting best 
@@ -101,30 +115,36 @@ model between the three was then compared to a TimeSeriesForest (TSF) model (Fao
 while the random forest model performed best on accuracy, it did not account for the seasonality of the time series data
 and that the TSF model was better suited to the application.
 
+<b>General model design</b><br>
+![Model Flowchart](/images/748c278919941e811157bc76601ef7f3.png)
+
+### Model 1: Simple Logistic Model
 The initial logistics model was conducted on both binary and trinary targets. The binary targets set for Glenn Canyon's
 operating depth such that the outcome was either at or above operating depth or below operating depth. We felt that the
 trinary target that included Glenn Canyon's dead-pool depth did not reduce the accuracy of the model significantly and 
 better balanced the target set while providing the end-user with more information. The trinary logistic model performed
 with an accuracy score of 94.8% on the hold-out data.
 
+### Model 2: Random Forest Classifier
 We comprised a second model from a grid search method to compare and tune a set of logistic, KNN, and random forest
 models.The grid search was constructed to choose models for highest accuracy. The resulting best-model from this grid
 search was a tuned random forest model with that performed with an accuracy of 98.3% on the hold-out data.
 
+### Model 3: Time Series Forest Classifier
 We constructed a third model using Faozi and Janati's TimeSeriesForest classifier to incorporate time series methods in
 our model. We performed a gridsearch to tune the model within set hyperparameters and found a TSF model optimized for
 the application. The TSF model performed with an accuracy of 97.2%. We feel that accounting for seasonality and other
 facets intrinsic to time series data is worth the minimal loss in accuracy we see between the TSF and random forest
 models in this application.
 
-### Appendix
+## Appendix
 
-#### Documentation
+### Documentation
 
-<a href="https://docs.google.com/presentation/d/12ga7hI2sMFTskA3Yoye9iRho2kdFfZtiFXL372UtFrQ/edit?usp=sharing">[link]</a>
+[[link]](/deliverables/CRB_Presentation.pdf)
 Presentation
 
-#### Works Cited
+### Works Cited
 
 <a href="https://www.usbr.gov/climate/secure/docs/2016secure/factsheet/ColoradoRiverBasinFactSheet.pdf">[link]</a>
 RECLAMATION: Managing Water in the West. U.S. Department of the Interior: Bureau of Reclamation. 2016.
@@ -132,5 +152,5 @@ RECLAMATION: Managing Water in the West. U.S. Department of the Interior: Bureau
 <a href="https://www.climatehubs.usda.gov/index.php/hubs/southwest/topic/focus-croplands-southwest">[link]</a>
 Focus on Croplands in the Southwest. U.S. Department of Agriculture.
 
-Johann Faouzi and Hicham Janati. pyts: A python package for time series classification.<br>
-&emsp; &emsp; &emsp; Journal of Machine Learning Research, 21(46):1−6, 2020.
+[[link]](https://github.com/johannfaouzi/pyts) Johann Faouzi and Hicham Janati. pyts: A python package for time series classification.<br>
+&emsp; &emsp; &emsp; &emsp; &emsp; Journal of Machine Learning Research, 21(46):1−6, 2020.
