@@ -19,7 +19,8 @@
    1. [Simple Logistic Model](#model-1-simple-logistic-model)
    2. [Random Forest Classifier](#model-2-random-forest-classifier)
    3. [Time Series Forest Classifier](#model-3-time-series-forest-classifier)
-5. [Appendix](#appendix)
+5. [Conclusion](#conclusion-and-future-considerations)
+6. [Appendix](#appendix)
 
 ## A General Synopsis of the Southwestern Region's Water Problem
 
@@ -136,6 +137,20 @@ our model. We performed a gridsearch to tune the model within set hyperparameter
 the application. The TSF model performed with an accuracy of 97.2%. We feel that accounting for seasonality and other
 facets intrinsic to time series data is worth the minimal loss in accuracy we see between the TSF and random forest
 models in this application.
+
+## Conclusion and Future Considerations
+
+<b>Lake Mead's water depth scheme - U.S. Bureau of Reclamation</b><br>
+![Lake Mead Water Depth Phases](/images/df8ac597413b31f60f878c60a2851376.png)
+
+While this model generalizes over the entirety of the Colorado River Basin, it does provide a proof of concept for 
+future models of its type. We feel that the use of models like these on a more granular scale and customized for the
+differing water depth phases of each individual dam or reservoir by the teams managing those water resources is the best
+approach. Water incomes and withdrawals can then be evaluated at an upstream level for each water storage center to
+provide more accurate outcomes with respect to those individual stations. This process can also be applied to other
+basins to assist and inform water regulation and use policies for the following year. Models such as these can integrate
+weather station system datas for live updates on the predictions of next year's water availability based on current 
+and emerging weather conditions.
 
 ## Appendix
 
